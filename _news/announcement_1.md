@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-8-1 00:00:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+Modern Programming in Genome to Phenome Scholarship, University of California, Davis, CA, August 1-5 😄
