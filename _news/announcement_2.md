@@ -4,7 +4,7 @@ title: Poster presentation
 date: 2022-06-26 13:15:00-0400
 inline: true
 ---
-Poster Presentation. Development of Automated Computer Vision Systems for Evaluating Dairy Cow Body
+[Poster Presentation](https://cdmcd.co/DwBqXa). Development of Automated Computer Vision Systems for Evaluating Dairy Cow Body
 Weight and Body Condition Scores. ASAS-CSAS 2022 annual meeting, Oklahoma City, Oklahoma. June 26-30. 🥸
 
 <!-- 
