@@ -1,7 +1,0 @@
----
-layout: post
-date: 2022-8-1 00:00:00-0400
-inline: true
----
-
-[Modern Programming in Genome to Phenome Scholarship](https://shortcourse.qtl.rocks/), University of California, Davis, CA, August 1-5 😄
