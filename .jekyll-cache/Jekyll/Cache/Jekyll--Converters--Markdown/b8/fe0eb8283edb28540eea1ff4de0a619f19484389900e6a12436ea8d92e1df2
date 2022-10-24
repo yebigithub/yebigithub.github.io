@@ -1,9 +1,52 @@
-I"l<!-- _pages/publications.md -->
+I"+<!-- _pages/publications.md -->
 <div class="publications">
+  <h2 class="year">2022</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">Data Science</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="bi2022psiv" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">PSIV-A-8 Development of Automated Computer Vision Systems for Evaluating Dairy cow Body Weight and Body Condition Scores</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Ye Bi,&nbsp;Robert Kadlec,&nbsp;Kayla Castro, and
+            <span class="more-authors" title="click to view 3 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '3 more authors' ? 'Sam Indest, Sabrina Amorim, Gota Morota' : '3 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">3 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Journal of Animal Science</em> 2022
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a href="https://academic.oup.com/jas/article/100/Supplement_3/249/6709674" class="btn btn-sm z-depth-0" role="button">HTML</a>
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
   <h2 class="year">2021</h2>
   <ol class="bibliography"><li><!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 abbr"><abbr class="badge" style="background-color:#B71C1C"><a href="">M.S. Thesis</a></abbr></div>
+        <div class="col-sm-2 abbr"><abbr class="badge" style="background-color:#B71C1C"><a href="">Immunology</a></abbr></div>
 
         <!-- Entry bib key -->
         <div id="bi2021longitudinal" class="col-sm-8">
@@ -34,13 +77,13 @@
   <h2 class="year">2018</h2>
   <ol class="bibliography"><li><!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 abbr"><abbr class="badge" style="background-color:#B71C1C"><a href="">Poultry Science</a></abbr></div>
+        <div class="col-sm-2 abbr"><abbr class="badge" style="background-color:#B71C1C"><a href="">Nutrition</a></abbr></div>
 
         <!-- Entry bib key -->
         <div id="bi2018effects" class="col-sm-8">
         
           <!-- Title -->
-          <div class="title">Effects of dietary threonine and immune stress on growth performance, carcass trait, serum immune parameters, and intestinal muc2 and NF-\kappab gene expression in Pekin ducks from hatch to 21 days</div>
+          <div class="title">Effects of dietary threonine and immune stress on growth performance, carcass trait, serum immune parameters, and intestinal muc2 and NF-kappaB gene expression in Pekin ducks from hatch to 21 days</div>
           <!-- Author -->
           <div class="author">
           

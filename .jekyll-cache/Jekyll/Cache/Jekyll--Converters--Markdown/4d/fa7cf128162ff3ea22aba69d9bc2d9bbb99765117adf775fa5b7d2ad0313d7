@@ -1,4 +1,4 @@
-I"è<!-- pages/projects.md -->
+I"ô<!-- pages/projects.md -->
 <div class="projects">
   <!-- Display categorized projects -->
   <h2 class="category">work</h2>
@@ -24,7 +24,7 @@
 </figure>
 
         <div class="card-body">
-          <h2 class="card-title text-lowercase">Quantitative Genetics</h2>
+          <h2 class="card-title font-weight-medium">Quantitative Genetics</h2>
           <p class="card-text">Utility of metabolites and single-nucleotide polymorphisms for classification and prediction of grain size related traits under high night temperature conditions in rice.</p>
           <div class="row ml-1 mr-1 p-0">
           </div>
@@ -52,7 +52,7 @@
 </figure>
 
         <div class="card-body">
-          <h2 class="card-title text-lowercase">Quantitative Genetics</h2>
+          <h2 class="card-title font-weight-medium">Quantitative Genetics</h2>
           <p class="card-text">Rice phenotypic plasticity analysis using a random regression model</p>
           <div class="row ml-1 mr-1 p-0">
           </div>
@@ -62,7 +62,7 @@
 </div><!-- _includes/projects.html -->
 <div class="grid-sizer"></div>
 <div class="grid-item">
-  <a href="https://unsplash.com">
+  <a href="/projects/3_project/">
       <div class="card hoverable"><figure>
 
   <picture>
@@ -80,7 +80,7 @@
 </figure>
 
         <div class="card-body">
-          <h2 class="card-title text-lowercase">Precision Livestock Farming</h2>
+          <h2 class="card-title font-weight-medium">Precision Livestock Farming</h2>
           <p class="card-text">Estimate dairy cow body weight and body condition score via automated computer vision systems</p>
           <div class="row ml-1 mr-1 p-0">
           </div>
