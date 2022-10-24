@@ -1,5 +1,4 @@
-I"_
-<!-- _pages/publications.md -->
+I"l<!-- _pages/publications.md -->
 <div class="publications">
   <h2 class="year">2021</h2>
   <ol class="bibliography"><li><!-- _layouts/bib.html -->
@@ -24,6 +23,7 @@
         
           <!-- Links/Buttons -->
           <div class="links">
+            <a href="https://escholarship.org/uc/item/7hr1b7x0" class="btn btn-sm z-depth-0" role="button">HTML</a>
           </div>
 
           
@@ -66,6 +66,7 @@
         
           <!-- Links/Buttons -->
           <div class="links">
+            <a href="https://www.sciencedirect.com/science/article/pii/S0032579119306054?via%3Dihub" class="btn btn-sm z-depth-0" role="button">HTML</a>
           </div>
 
           
