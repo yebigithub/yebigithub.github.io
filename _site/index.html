@@ -153,9 +153,16 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
           <!-- News -->          
           <div class="news">
             <h2>News</h2>
-            <div class="table-responsive">
+            <div class="table-responsive" style="max-height: 10vw">
               <table class="table table-sm table-borderless">
                
+                <tr>
+                  <th scope="row">Oct 29, 2022</th>
+                  <td>
+                    <a href="https://www.biorxiv.org/content/10.1101/2022.10.27.514071v1" target="_blank" rel="noopener noreferrer">Preprint: Evaluating metabolic and genomic data for predicting grain traits under high night temperature stress in rice</a>, my first Ph.D. project in Quantitative Genetics. Thanks a lot for my advisor and collaborators’ help! 🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩
+ 
+                  </td>
+                </tr> 
                 <tr>
                   <th scope="row">Sep 9, 2022</th>
                   <td>
@@ -187,6 +194,49 @@ Seattle, WA, July 18-27. 🧐
           <div class="publications">
             <h2>Selected Publications</h2>
             <ol class="bibliography">
+<li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">Preprint</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="bi2022metabolite" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Evaluating metabolic and genomic data for predicting grain traits under high night temperature stress in rice</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Bi Y, Yassue RM, Paul P, and
+            <span class="more-authors" title="click to view 6 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '6 more authors' ? 'Dhatt BK, Sandhu J, Do TP, Walia H, Obata T, Morota G' : '6 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">6 more authors</span>
+</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em></em> 2022
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a href="https://www.biorxiv.org/content/10.1101/2022.10.27.514071v1" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">HTML</a>
+          </div>
+
+          
+        </div>
+      </div>
+</li>
 <li>
 <!-- _layouts/bib.html -->
       <div class="row">
