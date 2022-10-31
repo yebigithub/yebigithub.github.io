@@ -1,9 +1,9 @@
-I"<!-- _pages/publications.md -->
+I"4<!-- _pages/publications.md -->
 <div class="publications">
   <h2 class="year">2022</h2>
   <ol class="bibliography"><li><!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 abbr"><abbr class="badge">Preprint</abbr></div>
+        <div class="col-sm-2 abbr"><abbr class="badge" style="background-color:#1c7cb7"><a href="">Preprint</a></abbr></div>
 
         <!-- Entry bib key -->
         <div id="bi2022metabolite" class="col-sm-8">
@@ -14,19 +14,7 @@
           <div class="author">
           
 
-          Bi Y,&nbsp;Yassue RM,&nbsp;Paul P, and
-            <span class="more-authors" title="click to view 6 more authors" onclick="
-                  var element = $(this);
-                  element.attr('title', '');
-                  var more_authors_text = element.text() == '6 more authors' ? 'Dhatt BK, Sandhu J, Do TP, Walia H, Obata T, Morota G' : '6 more authors';
-                  var cursorPosition = 0;
-                  var textAdder = setInterval(function(){
-                    element.text(more_authors_text.substring(0, cursorPosition + 1));
-                    if (++cursorPosition == more_authors_text.length){
-                      clearInterval(textAdder);
-                    }
-                }, '10');
-                ">6 more authors</span></div>
+          Bi Y,&nbsp;Yassue RM,&nbsp;Paul P,&nbsp;Dhatt BK,&nbsp;Sandhu J,&nbsp;Do TP,&nbsp;Walia H,&nbsp;Obata T,&nbsp;and&nbsp;Morota G</div>
 
           <!-- Journal/Book title and date -->
           <div class="periodical">
@@ -88,19 +76,7 @@
           <div class="author">
           
 
-          Y Bi,&nbsp;XM Nan,&nbsp;SS Zheng, and
-            <span class="more-authors" title="click to view 2 more authors" onclick="
-                  var element = $(this);
-                  element.attr('title', '');
-                  var more_authors_text = element.text() == '2 more authors' ? 'LS Jiang, BH Xiong' : '2 more authors';
-                  var cursorPosition = 0;
-                  var textAdder = setInterval(function(){
-                    element.text(more_authors_text.substring(0, cursorPosition + 1));
-                    if (++cursorPosition == more_authors_text.length){
-                      clearInterval(textAdder);
-                    }
-                }, '10');
-                ">2 more authors</span></div>
+          Y Bi,&nbsp;XM Nan,&nbsp;SS Zheng,&nbsp;LS Jiang,&nbsp;and&nbsp;BH Xiong</div>
 
           <!-- Journal/Book title and date -->
           <div class="periodical">
