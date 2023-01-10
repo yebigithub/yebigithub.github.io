@@ -1,15 +1,5 @@
-"Immunology":
-  # url: https://aapt.scitation.org/journal/ajp
-  color: "#B71C1C"
-
-"Nutrition":
-  color: "#B71C1C"
-
-"Data Science":
-  color: "#B71C1C"
-
 "Preprint":
-  color: "#1c7cb7"
+  color: "#B71C1C"
 
-"In press":
-  color: "#800080"
+"Paper":
+  color: "#1c7cb7"
