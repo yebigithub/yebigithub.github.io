@@ -13,11 +13,15 @@
     - title: Ph.D. in progress
       institution: Virginia Tech
       year: 2021--now
-      description: Quantitative Genetics
+      description: 
+      - Quantitative Genetics
+      - Animal Data Science
     - title: Master
       institution: University of California, Davis
       year: 2019--2021
-      description: Animal Biology
+      description:
+       - Animal Biology
+       - Bioinformatics and Bioimmunology
 
           #   description:
     #     - Description 1.
