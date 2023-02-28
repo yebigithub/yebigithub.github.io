@@ -5,4 +5,4 @@ inline: true
 ---
 
 [27th Summer Institute in Statistical Genetics (SISG) Scholarship](https://si.biostat.washington.edu/scholarships), University of Washington,
-Seattle, WA, July 18-27. 🧐
+Seattle, WA, July 18-27. 
