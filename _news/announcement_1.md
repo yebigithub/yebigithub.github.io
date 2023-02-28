@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Poster presentation
-date: 2022-08-01 13:15:00-0400
+date: 2023-02-28 13:15:00-0400
 inline: true
 ---
-[Modern Programming in Genome to Phenome](https://shortcourse.qtl.rocks/), University of California, Davis, CA. August 1-5. 
+<strong>Guest Lecture</strong>
+• ALS 3104 Animal Breeding and Genetics -- Statistics Concepts of Quantitative Genetics
