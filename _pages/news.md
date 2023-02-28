@@ -4,7 +4,7 @@ permalink: /teaching/
 title: News
 description: News so far.
 nav: true
-nav_order: 1
+nav_order: 6
 ---
 
 <u>Feb 28, 2023</u> &nbsp;&nbsp; <strong>Guest Lecture</strong>

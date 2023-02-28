@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Precision Livestock Farming
-description: Estimate dairy cow body weight and body condition score via automated computer vision systems
-img: assets/img/7.png
+title: Estimate dairy cow body weight via computer vision systems
+description: Estimate dairy cow body weight via computer vision systems
+img: assets/img/bw.png
 importance: 3
 category: work
 ---
