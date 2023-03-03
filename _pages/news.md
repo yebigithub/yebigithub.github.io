@@ -8,7 +8,7 @@ nav_order: 6
 ---
 
 <u>Feb 28, 2023</u> &nbsp;&nbsp; <strong>Guest Lecture</strong>
-• ALS 3104 Animal Breeding and Genetics -- Statistics Concepts of Quantitative Genetics
+• ALS 3104 Animal Breeding and Genetics -- Statistical Concepts in Quantitative Genetics
 
 <u>Feb 27, 2023</u> &nbsp;&nbsp; <strong>[New paper accepted!]</strong> 🌷🌷🌷🌷🌷🌷🌷🌷🌾🌾🌾🌾 Ye Bi, Rafael Massahiro Yassue, Puneet Paul, Balpreet Kaur Dhatt, Jaspreet Sandhu, Thi Phuc Do, Harkamal Walia, Toshihiro Obata, and Gota Morota. 2023. Evaluating metabolic and genomic data for predicting grain traits under high night temperature stress in rice. G3: Genes, Genomes, Genetics. In press. [doi:10.1101/2022.10.27.514071](https://doi.org/10.1101/2022.10.27.514071)
 
