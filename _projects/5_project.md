@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Automated acquisition of top-view dairy cow depth image data using an RGB-D sensor camera
+title: Animal data science project3
 description: Automated acquisition of top-view dairy cow depth image data using an RGB-D sensor camera.
 img: assets/img/auto.png
 importance: 5

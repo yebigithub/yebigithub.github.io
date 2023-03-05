@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rice phenotypic plasticity analysis using a random regression model
+title: Plant genetics project2
 description: Rice phenotypic plasticity analysis using a random regression model
 img: assets/img/3.png
 importance: 2
