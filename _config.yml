@@ -6,7 +6,7 @@ title: Ye Bi 毕晔 # the website title (if blank, full name will be used instea
 first_name: Ye
 middle_name: 
 last_name: Bi
-# email: yebi@vt.edu
+email: yebi@vt.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   My personal website.
 footer_text: >
