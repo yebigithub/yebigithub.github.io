@@ -1,7 +1,10 @@
 ---
 layout: post
-date: 2022-09-09 00:00:00-0400
+date: 2023-03-15 00:00:00-0400
 inline: true
 ---
-[Intramural Seminar](https://vt-ads.github.io/), Utility of Metabolites and Single-Nucleotide Polymorphisms for Classification of High Night Temperature Stress Conditions and Prediction of Grain Size Related Traits in Rice. Virginia Polytechnic Institute and State University, Blacsburg, VA, Sep 09. 
+[Poster Presentation](https://caia.cals.vt.edu/). Depth video data enabled prediction of dairy cow body weight. Virginia Tech Center for Advanced Innovation in Agriculture (CAIA) Big Event.
+<a href="/assets/pdf/CAIA_2023_big_event_Ye.pdf">Click to read poster</a>.
+
+
 
