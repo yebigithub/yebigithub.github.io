@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /News/
 title: News
 description: News so far.
 nav: true
 nav_order: 6
 ---
 
-<u>Mar 16, 2023</u> &nbsp;&nbsp; [Poster Presentation](https://caia.cals.vt.edu/). Depth video data enabled prediction of dairy cow body weight. Virginia Tech Center for Advanced Innovation in Agriculture (CAIA) Big Event.
+<u>Mar 16, 2023</u> &nbsp;&nbsp; <strong>Poster Presentation</strong>. Depth video data enabled prediction of dairy cow body weight. Virginia Tech Center for Advanced Innovation in Agriculture ([CAIA](https://caia.cals.vt.edu/)) Big Event.
 <a href="/assets/pdf/CAIA_2023_big_event_Ye.pdf">Click to read poster</a>.
 
 
