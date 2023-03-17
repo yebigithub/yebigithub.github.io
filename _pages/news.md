@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /News/
+permalink: /teaching/
 title: News
 description: News so far.
 nav: true
