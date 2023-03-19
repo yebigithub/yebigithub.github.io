@@ -1,4 +1,4 @@
-I"›<!-- _pages/publications.md -->
+I"µ<!-- _pages/publications.md -->
 <div class="publications">
   <h2 class="year">2023</h2>
   <ol class="bibliography"><li><!-- _layouts/bib.html -->
@@ -29,15 +29,13 @@
           
         </div>
       </div>
-</li></ol>
-
-  <h2 class="year">2022</h2>
-  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+</li>
+<li><!-- _layouts/bib.html -->
       <div class="row">
         <div class="col-sm-2 abbr"><abbr class="badge" style="background-color:#B71C1C"><a href="">Paper</a></abbr></div>
 
         <!-- Entry bib key -->
-        <div id="sabag2022multj" class="col-sm-8">
+        <div id="sabag2023multi" class="col-sm-8">
         
           <!-- Title -->
           <div class="title">Multi-environment analysis enhances genomic prediction accuracy of agronomic traits in sesame</div>
@@ -49,12 +47,12 @@
 
           <!-- Journal/Book title and date -->
           <div class="periodical">
-            <em>bioRxiv</em> 2022
+            <em>Frontiers in Genetics</em> 2023
           </div>
         
           <!-- Links/Buttons -->
           <div class="links">
-            <a href="https://doi.org/10.1101/2022.11.26.518043" class="btn btn-sm z-depth-0" role="button">HTML</a>
+            <a href="https://doi.org/10.3389/fgene.2023.1108416" class="btn btn-sm z-depth-0" role="button">HTML</a>
           </div>
 
           
@@ -78,18 +76,21 @@
 
           <!-- Journal/Book title and date -->
           <div class="periodical">
-            <em></em> 2022
+            <em>G3: Genes, Genomes, Genetics</em> 2023
           </div>
         
           <!-- Links/Buttons -->
           <div class="links">
-            <a href="https://www.biorxiv.org/content/10.1101/2022.10.27.514071v1" class="btn btn-sm z-depth-0" role="button">HTML</a>
+            <a href="https://doi.org/10.1093/g3journal/jkad052" class="btn btn-sm z-depth-0" role="button">HTML</a>
           </div>
 
           
         </div>
       </div>
 </li></ol>
+
+  <h2 class="year">2022</h2>
+  <ol class="bibliography"></ol>
 
   <h2 class="year">2021</h2>
   <ol class="bibliography"><li><!-- _layouts/bib.html -->

@@ -13,9 +13,9 @@ nav_order: 6
 
 <u>Feb 28, 2023</u> &nbsp;&nbsp; <strong>Guest Lecture</strong>• ALS 3104 Animal Breeding and Genetics -- Statistical Concepts in Quantitative Genetics
 
-<u>Feb 27, 2023</u> &nbsp;&nbsp; <strong>[New paper accepted!]</strong> 🌾🌾🌾 Ye Bi, Rafael Massahiro Yassue, Puneet Paul, Balpreet Kaur Dhatt, Jaspreet Sandhu, Thi Phuc Do, Harkamal Walia, Toshihiro Obata, and Gota Morota. 2023. Evaluating metabolic and genomic data for predicting grain traits under high night temperature stress in rice. G3: Genes, Genomes, Genetics. In press. [doi:10.1101/2022.10.27.514071](https://doi.org/10.1101/2022.10.27.514071)
+<u>Feb 27, 2023</u> &nbsp;&nbsp; <strong>[New paper accepted!]</strong> 🌾🌾🌾 Ye Bi, Rafael Massahiro Yassue, Puneet Paul, Balpreet Kaur Dhatt, Jaspreet Sandhu, Thi Phuc Do, Harkamal Walia, Toshihiro Obata, and Gota Morota. 2023. Evaluating metabolic and genomic data for predicting grain traits under high night temperature stress in rice. <i>G3: Genes, Genomes, Genetics</i>. Early view. [doi](https://doi.org/10.1093/g3journal/jkad052)
 
-<u>Feb 27, 2023</u> &nbsp;&nbsp; <strong>[New paper accepted!]</strong> ☘️☘️☘️ Idan Sabag, Ye Bi, Zvi Peleg, and Gota Morota. Multi-environment analysis enhances genomic prediction accuracy of agronomic traits in sesame. Frontiers in Genetics. In press. [doi: 10.1101/2022.11.26.518043](https://doi.org/10.1101/2022.11.26.518043)
+<u>Feb 27, 2023</u> &nbsp;&nbsp; <strong>[New paper accepted!]</strong> ☘️☘️☘️ Idan Sabag, Ye Bi, Zvi Peleg, and Gota Morota. Multi-environment analysis enhances genomic prediction accuracy of agronomic traits in sesame. <i> Frontiers in Genetics </i> 14 (2023): 380.[doi](https://doi.org/10.3389/fgene.2023.1108416)
 
 <u>Dec 2, 2022</u>  &nbsp;&nbsp; <strong>[New paper accepted!]</strong> 🐄📸🐄📸 Robert Kadlec, Sam Indest, Kayla Castro, Shayan Waqar, Leticia M Campos, Sabrina T Amorim, Ye Bi, Mark D Hanigan, and Gota Morota. Automated acquisition of top-view dairy cow depth image data using an RGB-D sensor camera. Translational Animal Sciences 6.4 (2022): txac163. [doi: 10.1093/tas/txac163](https://doi.org/10.1093/tas/txac163)
 
