@@ -4,7 +4,7 @@ title: Poster presentation
 date: 2023-05-03 13:15:00-0400
 inline: true
 ---
-Diversity for Global Society Presentation. Engaging in Anti-Asian-Hate on Virginia Tech Campus. [Click for slides](https://docs.google.com/presentation/d/12jXZkxaUMeGWxoBjWHNBvegDbJWlWnlK4XnnVs8QCW8/edit?usp=sharing). Interesting class. 
+Diversity for Global Society Presentation. Engaging in Anti-Asian-Hate on Virginia Tech Campus. [Click for slides](https://docs.google.com/presentation/d/11cDFQDA8LaF007pkqqETALj_1L-3fOlB-QMJc7I6dNg/edit?usp=sharing). Interesting class. 
 
 <!-- ***
 

@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-<u>May 3, 2023</u> &nbsp;&nbsp; Diversity for Global Society Presentation. Engaging in Anti-Asian-Hate on Virginia Tech Campus. [Click for slides](https://docs.google.com/presentation/d/12jXZkxaUMeGWxoBjWHNBvegDbJWlWnlK4XnnVs8QCW8/edit?usp=sharing). Interesting class. 
+<u>May 3, 2023</u> &nbsp;&nbsp; Diversity for Global Society Presentation. Engaging in Anti-Asian-Hate on Virginia Tech Campus. [Click for slides](https://docs.google.com/presentation/d/11cDFQDA8LaF007pkqqETALj_1L-3fOlB-QMJc7I6dNg/edit?usp=sharing). Interesting class. 
 
 <u>Mar 16, 2023</u> &nbsp;&nbsp; <strong>Poster Presentation</strong>. Depth video data enabled prediction of dairy cow body weight. Virginia Tech Center for Advanced Innovation in Agriculture ([CAIA](https://caia.cals.vt.edu/)) Big Event.
 
