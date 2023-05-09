@@ -6,5 +6,3 @@ img: assets/img/auto.png
 importance: 5
 category: work
 ---
-
-
