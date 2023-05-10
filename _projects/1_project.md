@@ -1,14 +1,20 @@
 ---
 layout: page
 title: Plant genetics project1
-description: Utility of metabolites and single-nucleotide polymorphisms for classification and prediction of grain size related traits under high night temperature conditions in rice.
-img: assets/img/12.png
+description: Evaluating metabolic and genomic data for predicting grain traits under high night temperature stress in rice.
+img: assets/img/MetUNL/title.png
 importance: 2
 category: work
 ---
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/MetUNL/title.png" title="title" class="img-fluid rounded z-depth-0" %}
+    </div>
+</div>
 
-[https://doi.org/10.1093/g3journal/jkad052](https://doi.org/10.1093/g3journal/jkad052)  
+Paper: [https://doi.org/10.1093/g3journal/jkad052](https://doi.org/10.1093/g3journal/jkad052)  
+Codes: [https://github.com/yebigithub/VTUNL_Rice](https://github.com/yebigithub/VTUNL_Rice)
 
 <strong>Abstract</strong>  
 The asymmetric increase in average nighttime temperatures relative to increase in average daytime temperatures due to climate change is decreasing grain yield and quality in rice. Therefore, a better genome-level understanding of the impact of higher night temperature stress on the weight of individual grains is essential for future development of more resilient rice. We investigated the utility of metabolites obtained from grains to classify high night temperature (HNT) conditions of genotypes, and metabolites and single-nucleotide polymorphisms (SNPs) to predict grain length, width, and perimeter phenotypes using a rice diversity panel. We found that the metabolic profiles of rice genotypes alone could be used to classify control and HNT conditions with high accuracy using random forest or extreme gradient boosting. Best linear unbiased prediction and BayesC showed greater metabolic prediction performance than machine learning models for grain-size phenotypes. Metabolic prediction was most effective for grain width, resulting in the highest prediction performance. Genomic prediction performed better than metabolic prediction. Integrating metabolites and genomics simultaneously in a prediction model slightly improved prediction performance. We did not observe a difference in prediction between the control and HNT conditions. Several metabolites were identified as auxiliary phenotypes that could be used to enhance the multi-trait genomic prediction of grain-size phenotypes. Our results showed that, in addition to SNPs, metabolites collected from grains offer rich information to perform predictive analyses, including classification modeling of HNT responses and regression modeling of grain-size-related phenotypes in rice.
@@ -16,10 +22,10 @@ The asymmetric increase in average nighttime temperatures relative to increase i
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MetUNL/fig1.png" title="cv1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/MetUNL/fig1.png" title="cv1" class="img-fluid rounded z-depth-0" %}
     </div>
     <div class="col-sm mt-3 mt-md-3">
-        {% include figure.html path="assets/img/MetUNL/fig2.png" title="cv2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/MetUNL/fig2.png" title="cv2" class="img-fluid rounded z-depth-0" %}
     </div>
 
 </div>
@@ -34,7 +40,10 @@ types (B). Figure 2: Cross-validation design for multi-trait prediction. Scenari
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 d-flex align-items-center">
-        {% include figure.html path="assets/img/MetUNL/fig3.png" title="fig3" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/MetUNL/fig3a.png" title="fig3" class="img-fluid rounded z-depth-0" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0 d-flex align-items-center">
+        {% include figure.html path="assets/img/MetUNL/fig3b.png" title="fig3" class="img-fluid rounded z-depth-0" %}
     </div>
 </div>
 <div class="caption">
@@ -46,7 +55,7 @@ night time temperature stress (B) conditions.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MetUNL/fig4.png" title="fig4" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/MetUNL/fig4.png" title="fig4" class="img-fluid rounded z-depth-0" %}
     </div>
 </div>
 <div class="caption">
@@ -57,7 +66,7 @@ random forest; and XGBoost: extreme gradient boosting.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MetUNL/fig5.png" title="fig5" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/MetUNL/fig5.png" title="fig5" class="img-fluid rounded z-depth-0" %}
     </div>
 </div>
 <div class="caption">
@@ -71,7 +80,7 @@ XGBoost: extreme gradient boosting.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MetUNL/fig6.png" title="fig6" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/MetUNL/fig6.png" title="fig6" class="img-fluid rounded z-depth-0" %}
     </div>
 </div>
 <div class="caption">
@@ -85,7 +94,7 @@ XGBoost: extreme gradient boosting.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MetUNL/fig7.png" title="fig7" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/MetUNL/fig7.png" title="fig7" class="img-fluid rounded z-depth-0" %}
     </div>
 </div>
 <div class="caption">
@@ -99,7 +108,7 @@ XGBoost: extreme gradient boosting.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MetUNL/fig8.png" title="fig8" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/MetUNL/fig8.png" title="fig8" class="img-fluid rounded z-depth-0" %}
     </div>
 </div>
 <div class="caption">
@@ -114,7 +123,7 @@ unbiased prediction; and GMBLUP: genomic and metabolic best linear unbiased pred
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MetUNL/fig9.png" title="fig9" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/MetUNL/fig9.png" title="fig9" class="img-fluid rounded z-depth-0" %}
     </div>
 </div>
 <div class="caption">
@@ -127,7 +136,7 @@ lines indicate the predictive correlations of single-trait genomic prediction.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MetUNL/fig10.png" title="fig10" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/MetUNL/fig10.png" title="fig10" class="img-fluid rounded z-depth-0" %}
     </div>
 </div>
 <div class="caption">
