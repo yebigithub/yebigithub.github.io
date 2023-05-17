@@ -7,7 +7,9 @@ nav: true
 nav_order: 6
 ---
 
-<u>May 3, 2023</u> &nbsp;&nbsp; Diversity for Global Society Presentation. Engaging in Anti-Asian-Hate on Virginia Tech Campus. [Click for slides](https://docs.google.com/presentation/d/11cDFQDA8LaF007pkqqETALj_1L-3fOlB-QMJc7I6dNg/edit?usp=sharing). Interesting class. 
+<u>May 16, 2023</u> &nbsp;&nbsp; <strong>Oral Presentation</strong>. Depth video data-enabled predictions of longitudinal dairy cow body weight using thresholding and Mask R-CNN algorithms. School of Animal Sciences Research Day. [Slides](https://docs.google.com/presentation/d/1OJJq71HAxbWsqVaWzYRRXMic-RIrhCZRp1Zeyji_69E/edit?usp=sharing).
+
+<u>May 3, 2023</u> &nbsp;&nbsp; <strong>Oral Presentation</strong>. Diversity for Global Society Presentation. Engaging in Anti-Asian-Hate on Virginia Tech Campus. [Slides](https://docs.google.com/presentation/d/11cDFQDA8LaF007pkqqETALj_1L-3fOlB-QMJc7I6dNg/edit?usp=sharing). Interesting class. 
 
 <u>Mar 16, 2023</u> &nbsp;&nbsp; <strong>Poster Presentation</strong>. Depth video data enabled prediction of dairy cow body weight. Virginia Tech Center for Advanced Innovation in Agriculture ([CAIA](https://caia.cals.vt.edu/)) Big Event.
 
