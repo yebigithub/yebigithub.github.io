@@ -7,6 +7,8 @@ nav: true
 nav_order: 6
 ---
 
+<u>June 2, 2023</u> &nbsp;&nbsp; <strong>Travel fund award</strong>. The Summer 2023 Cycle Travel Fund Program (\$300), Graduate and Professional Student Senate, Virginia Tech.
+
 <u>May 16, 2023</u> &nbsp;&nbsp; <strong>Oral Presentation</strong>. Depth video data-enabled predictions of longitudinal dairy cow body weight using thresholding and Mask R-CNN algorithms. School of Animal Sciences Research Day. [Slides](https://docs.google.com/presentation/d/1OJJq71HAxbWsqVaWzYRRXMic-RIrhCZRp1Zeyji_69E/edit?usp=sharing).
 
 <u>May 3, 2023</u> &nbsp;&nbsp; <strong>Oral Presentation</strong>. Diversity for Global Society Presentation. Engaging in Anti-Asian-Hate on Virginia Tech Campus. [Slides](https://docs.google.com/presentation/d/11cDFQDA8LaF007pkqqETALj_1L-3fOlB-QMJc7I6dNg/edit?usp=sharing). Interesting class. 
