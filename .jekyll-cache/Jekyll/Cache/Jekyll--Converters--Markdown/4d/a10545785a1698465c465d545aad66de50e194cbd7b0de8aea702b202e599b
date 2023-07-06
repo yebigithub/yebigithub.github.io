@@ -1,7 +1,36 @@
-I":"<!-- _pages/publications.md -->
+I"&&<!-- _pages/publications.md -->
 <div class="publications">
   <h2 class="year">2023</h2>
   <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge" style="background-color:#1c7cb7"><a href="">Preprint</a></abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="bi2023depth" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Depth video data-enabled predictions of longitudinal dairy cow body weight using thresholding and Mask R-CNN algorithms</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Ye Bi,&nbsp;Leticia M. Campos,&nbsp;Jin Wang,&nbsp;Haipeng Yu,&nbsp;Mark D. Hanigan,&nbsp;and&nbsp;Gota Morota</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            2023
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a href="https://arxiv.org/abs/2307.01383" class="btn btn-sm z-depth-0" role="button">HTML</a>
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
       <div class="row">
         <div class="col-sm-2 abbr"><abbr class="badge" style="background-color:#B71C1C"><a href="">Paper</a></abbr></div>
 
