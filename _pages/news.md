@@ -6,6 +6,9 @@ description: News so far.
 nav: true
 nav_order: 6
 ---
+<u>July 20, 2023</u> &nbsp;&nbsp; <strong>Oral presentation</strong>. 
+    Depth video data-enabled predictions of longitudinal dairy cow body weight using thresholding and Mask R-CNN algorithms. 2023 ASAS-CSAS-WSASAS Annual Meeting. Albuquerque, New Mexico. July 16-20.
+
 <u>July 5, 2023</u> &nbsp;&nbsp; <strong>New preprint</strong>. Ye Bi, Leticia M. Campos, Jin Wang, Haipeng Yu, Mark D. Hanigan, and Gota Morota. Depth video data-enabled predictions of longitudinal dairy cow body weight using thresholding and Mask R-CNN algorithms. [doi: arXiv:2307.01383](https://arxiv.org/abs/2307.01383)
 
 <u>June 2, 2023</u> &nbsp;&nbsp; <strong>Travel fund award</strong>. The Summer 2023 Cycle Travel Fund Program (\$300), Graduate and Professional Student Senate, Virginia Tech.

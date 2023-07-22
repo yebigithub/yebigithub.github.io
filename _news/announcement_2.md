@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Poster presentation
-date: 2023-05-03 13:15:00-0400
+date: 2023-07-20 13:15:00-0400
 inline: true
 ---
-<strong>Oral Presentation</strong>. Diversity for Global Society Presentation. Engaging in Anti-Asian-Hate on Virginia Tech Campus. [Slides](https://docs.google.com/presentation/d/11cDFQDA8LaF007pkqqETALj_1L-3fOlB-QMJc7I6dNg/edit?usp=sharing). Interesting class. 
+<strong>Oral Presentation</strong>. Depth video data-enabled predictions of longitudinal dairy cow body weight using thresholding and Mask R-CNN algorithms. 2023 ASAS-CSAS-WSASAS Annual Meeting. Albuquerque, New Mexico. July 16-20.
 
 <!-- ***
 
