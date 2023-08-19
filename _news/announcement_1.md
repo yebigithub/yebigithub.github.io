@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Poster presentation
-date: 2023-02-28 13:15:00-0400
+title: Invited presentation
+date: 2023-08-14 13:15:00-0400
 inline: true
 ---
-<strong>Guest Lecture</strong> ALS 3104 Animal Breeding and Genetics -- Statistical Concepts in Quantitative Genetics
+<strong>Oral presentation</strong>. Gota Morota and Ye Bi. Animal data science applied to digital data. Smithfield Premium Genetics. Rose Hill, NC. August 14. Interesting farm visit! So many pigs! 🐖🐖🐖🐖

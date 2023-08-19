@@ -6,6 +6,8 @@ description: News so far.
 nav: true
 nav_order: 6
 ---
+ <u>Aug 14, 2023</u> &nbsp;&nbsp; <strong>Oral presentation</strong>. Gota Morota and Ye Bi. Animal data science applied to digital data. Smithfield Premium Genetics. Rose Hill, NC. August 14.
+
 <u>July 20, 2023</u> &nbsp;&nbsp; <strong>Oral presentation</strong>. 
     Depth video data-enabled predictions of longitudinal dairy cow body weight using thresholding and Mask R-CNN algorithms. 2023 ASAS-CSAS-WSASAS Annual Meeting. Albuquerque, New Mexico. July 16-20.
 
