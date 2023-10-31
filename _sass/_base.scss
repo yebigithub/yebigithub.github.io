@@ -419,11 +419,15 @@ footer.sticky-bottom {
     &:hover {
       .card-title {
         color: var(--global-theme-color);
+        // font-size: 12px;
       }
     }
   }
 
   .card {
+    .card-title{
+      font-size: 24px;
+    }
     img {
       width: 100%;
     }

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Animal data science project1
-description: Estimate dairy cow body weight via computer vision systems
+title: Deep learning prediction of dairy cattle body weight
+description: Depth video data-enabled predictions of longitudinal dairy cow body weight using thresholding and Mask R-CNN algorithms
 img: assets/img/bw.png
 importance: 1
 category: work

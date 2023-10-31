@@ -200,6 +200,8 @@ footer.sticky-bottom { border-top: 1px solid var(--global-divider-color); paddin
 
 .projects a:hover .card-title { color: var(--global-theme-color); }
 
+.projects .card .card-title { font-size: 24px; }
+
 .projects .card img { width: 100%; }
 
 .projects .card-item { width: auto; margin-bottom: 10px; }

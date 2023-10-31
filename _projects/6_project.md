@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Plant genetics project4
+title: Multi-environment genomic analysis in sesame
 description: Multi-environment analysis enhances genomic prediction accuracy of agronomic traits in sesame
 img: assets/img/Sea1/title.png
 importance: 6
