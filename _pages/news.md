@@ -6,6 +6,9 @@ description: News so far.
 nav: true
 nav_order: 6
 ---
+
+<u>Oct 31, 2023</u> &nbsp;&nbsp;  <strong>[New paper accepted!]</strong> Ye Bi, Leticia M. Campos, Jin Wang, Haipeng Yu, Mark D. Hanigan, and Gota Morota. Depth video data-enabled predictions of longitudinal dairy cow body weight using thresholding and Mask R-CNN algorithms. <i>Smart Agricultural Technology</i>. In press. [doi: arXiv:2307.01383](https://arxiv.org/abs/2307.01383)
+
  <u>Aug 14, 2023</u> &nbsp;&nbsp; <strong>Oral presentation</strong>. Gota Morota and Ye Bi. Animal data science applied to digital data. Smithfield Premium Genetics. Rose Hill, NC. August 14.
 
 <u>July 20, 2023</u> &nbsp;&nbsp; <strong>Oral presentation</strong>. 
