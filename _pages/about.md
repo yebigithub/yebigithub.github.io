@@ -16,7 +16,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a Ph.D. student from [Dr. Gota Morota](http://morotalab.org/) 's group in the School of Animal Sciences at [Virginia Polytechnic Institute and State University](https://vt.edu/). 
+I am a Ph.D. candidate from [Dr. Gota Morota](http://morotalab.org/) 's group in the School of Animal Sciences at [Virginia Polytechnic Institute and State University](https://vt.edu/). 
 
 My research interests focus on incorporating statistics, machine learning, and bioinformatics into the study of animal and plant genetics in the omics era. 
 

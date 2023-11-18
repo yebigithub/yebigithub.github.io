@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Paper accepted
-date: 2023-2-27 13:15:00-0400
+title: Pass Prelim
+date: 2023-11-17 13:15:00-0400
 inline: true
 ---
-<strong>[New paper accepted!]</strong> ☘️☘️☘️☘️
-Idan Sabag, Ye Bi, Zvi Peleg, and Gota Morota. Multi-environment analysis enhances genomic prediction accuracy of agronomic traits in sesame. <i> Frontiers in Genetics </i> 14 (2023): 380. [doi](https://doi.org/10.3389/fgene.2023.1108416)
+<strong>[Passed preliminary]</strong> Excited to share that I've achieved a significant milestone in my academic journey! Please call me Candidate Bi. 😆😆 Grateful for the invaluable guidance from my advisor and the tremendous efforts of my dedicated committee members. Special thanks to all my teammates and collaborators for their unwavering support – this achievement wouldn't have been possible without you! 🙌 Here's to the next chapter! 🎓🌟 
