@@ -9,7 +9,7 @@ nav_order: 6
 
 <u>Nov 17, 2023</u> &nbsp;&nbsp;  <strong>[Passed preliminary]</strong> Excited to share that I've achieved a significant milestone in my academic journey! Please call me Candidate Bi. 😆😆 Grateful for the invaluable guidance from my advisor and the tremendous efforts of my dedicated committee members. Special thanks to all my teammates and collaborators for their unwavering support – this achievement wouldn't have been possible without you! 🙌 Here's to the next chapter! 🎓🌟 
 
-<u>Oct 31, 2023</u> &nbsp;&nbsp;  <strong>[New paper accepted!]</strong> Ye Bi, Leticia M. Campos, Jin Wang, Haipeng Yu, Mark D. Hanigan, and Gota Morota. Depth video data-enabled predictions of longitudinal dairy cow body weight using thresholding and Mask R-CNN algorithms. <i>Smart Agricultural Technology</i>. In press. [doi: arXiv:2307.01383](https://arxiv.org/abs/2307.01383)
+<u>Oct 31, 2023</u> &nbsp;&nbsp;  <strong>[New paper accepted!]</strong> Ye Bi, Leticia M. Campos, Jin Wang, Haipeng Yu, Mark D. Hanigan, and Gota Morota. Depth video data-enabled predictions of longitudinal dairy cow body weight using thresholding and Mask R-CNN algorithms. <i>Smart Agricultural Technology</i>. [doi: 10.1016/j.atech.2023.100352](https://doi.org/10.1016/j.atech.2023.100352)
 
  <u>Aug 14, 2023</u> &nbsp;&nbsp; <strong>Oral presentation</strong>. Gota Morota and Ye Bi. Animal data science applied to digital data. Smithfield Premium Genetics. Rose Hill, NC. August 14.
 

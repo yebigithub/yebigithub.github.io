@@ -4,4 +4,12 @@ title: Pass Prelim
 date: 2023-11-17 13:15:00-0400
 inline: true
 ---
-<strong>[Passed preliminary]</strong> Excited to share that I've achieved a significant milestone in my academic journey! Please call me Candidate Bi. 😆😆 Grateful for the invaluable guidance from my advisor and the tremendous efforts of my dedicated committee members. Special thanks to all my teammates and collaborators for their unwavering support – this achievement wouldn't have been possible without you! 🙌 Here's to the next chapter! 🎓🌟 
+
+
+<p>
+    <span style="float: left; width: 60%;">
+        <strong>[Passed preliminary]</strong> Excited to share that I've achieved a significant milestone in my academic journey! Please call me Candidate Bi. 😆😆 Grateful for the invaluable guidance from my advisor and the tremendous efforts of my dedicated committee members. Special thanks to all my teammates and collaborators for their unwavering support – this achievement wouldn't have been possible without you! 🙌 Here's to the next chapter! 🎓🌟
+    </span>
+
+    <img src="/assets/img/news/greencow.gif" style="float: right; width: 35%; height: 35%;" alt="Green Cow">
+</p>
