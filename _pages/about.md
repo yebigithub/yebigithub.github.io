@@ -2,25 +2,34 @@
 layout: about
 title: About Me
 permalink: /
-subtitle: 
+subtitle: >
+  <b>PhD Candidate</b> ⎟ <b>DL</b> ⎟ <b>CV</b> ⎟ <b>Genetics</b> ⎟ <b>Data Science</b>
 
 profile:
   align: right
   image: ye00.jpeg 
   image_circular: false # crops the image to make it circular
-  address: > 
-    <p>Address: Litton-Reaves Hall, Blacksburg, Virginia 24061</p>
+  address: >
 
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+announcement: >
+  Actively looking for <b>2024 Summer Internship</b> in Data Science, Quantitative Genetics, Computer Vision and/or Machine Learning. Please <a href="yebi@vt.edu" target="_blank">contact me</a> if you have any opportunity.
+
 ---
 I am a Ph.D. candidate from [Dr. Gota Morota](http://morotalab.org/) 's group in the School of Animal Sciences at [Virginia Polytechnic Institute and State University](https://vt.edu/). 
 
-My research interests focus on incorporating statistics, machine learning, and bioinformatics into the study of animal and plant genetics in the omics era. 
+ My research interests focus on incorporating artificial intelligence, computer vision, statistics, phenomics, and genetics to study animal and plant sciences.
 
-I am also interested in the application of computer vision systems for high-throughput phenotyping in precision agriculture.
+{% include announcement.html %}
+
+## Research Topics
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Precision Livestock Farming 🐷🐽🐄🐖   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Quantitative Genetics for animals 🐄🐂  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Quantitative Genetics for plants 🌿🌾
+
 
 <!-- Before joing VT, I obtained a master degree in Animal Biology at [University of California Davis](https://animalscience.ucdavis.edu/), a master degree in Animal Nutrition and Feed Science at [Chinese Academy of Agricultural Sciences](https://www.caas.cn/), a bachelor degree in Animal Science at [Shandong Agricultural University](http://www.sdau.edu.cn/). -->
 

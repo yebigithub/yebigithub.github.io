@@ -318,7 +318,13 @@ footer.sticky-bottom {
   .repo {
     max-width: 50%;
   }
+
+  .announcement {
+    max-width: 70% !important;
+  }
+
 }
+
 
 // Blog
 
@@ -457,6 +463,17 @@ footer.sticky-bottom {
     text-align: right;
   }
 }
+
+.announcement {
+  width: auto;
+  max-width: 65% !important;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 20px;
+  background-color: var(--global-code-bg-announcement);
+}
+
+
 
 
 // Publications

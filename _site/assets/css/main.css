@@ -1,6 +1,6 @@
 /******************************************************************************* Variables used throughout the theme. To adjust anything, simply edit the variables below and rebuild the theme. */
 /******************************************************************************* Themes */
-:root { --global-bg-color: #ffffff; --global-code-bg-color: rgba(181, 9, 172, 0.05); --global-text-color: #000000; --global-text-color-light: #828282; --global-theme-color: #B71C1C; --global-hover-color: #B71C1C; --global-footer-bg-color: #1C1C1D; --global-footer-text-color: #e8e8e8; --global-footer-link-color: #ffffff; --global-distill-app-color: #828282; --global-divider-color: rgba(0,0,0,.1); --global-card-bg-color: #ffffff; }
+:root { --global-bg-color: #ffffff; --global-code-bg-color: rgba(181, 9, 172, 0.05); --global-code-bg-announcement: rgba(183, 28, 28, 0.16); --global-text-color: #000000; --global-text-color-light: #828282; --global-theme-color: #B71C1C; --global-hover-color: #B71C1C; --global-footer-bg-color: #1C1C1D; --global-footer-text-color: #e8e8e8; --global-footer-link-color: #ffffff; --global-distill-app-color: #828282; --global-divider-color: rgba(0,0,0,.1); --global-card-bg-color: #ffffff; }
 
 :root .fa-sun { display: none; }
 
@@ -10,7 +10,7 @@
 
 :root .repo-img-dark { display: none; }
 
-html[data-theme='dark'] { --global-bg-color: #1C1C1D; --global-code-bg-color: #2c3237; --global-text-color: #e8e8e8; --global-text-color-light: #e8e8e8; --global-theme-color: #2698BA; --global-hover-color: #2698BA; --global-footer-bg-color: #e8e8e8; --global-footer-text-color: #1C1C1D; --global-footer-link-color: #000000; --global-distill-app-color: #e8e8e8; --global-divider-color: #424246; --global-card-bg-color: #212529; }
+html[data-theme='dark'] { --global-bg-color: #1C1C1D; --global-code-bg-color: #2c3237; --global-code-bg-announcement: #ffffff; --global-text-color: #e8e8e8; --global-text-color-light: #e8e8e8; --global-theme-color: #2698BA; --global-hover-color: #2698BA; --global-footer-bg-color: #e8e8e8; --global-footer-text-color: #1C1C1D; --global-footer-link-color: #000000; --global-distill-app-color: #e8e8e8; --global-divider-color: #424246; --global-card-bg-color: #212529; }
 
 html[data-theme='dark'] .fa-sun { padding-left: 10px; padding-top: 12px; display: block; }
 
@@ -29,7 +29,7 @@ body.fixed-top-nav { padding-top: 56px; }
 
 body.sticky-bottom-footer { padding-bottom: 0; }
 
-.container { max-width: 800px; }
+.container { max-width: 1000px; }
 
 .profile img { width: 100%; }
 
@@ -162,7 +162,7 @@ footer.sticky-bottom { border-top: 1px solid var(--global-divider-color); paddin
 
 .cv .card .list-group-item .badge { color: var(--global-card-bg-color) !important; background-color: var(--global-theme-color) !important; }
 
-@media (min-width: 768px) { .repo { max-width: 50%; } }
+@media (min-width: 768px) { .repo { max-width: 50%; } .announcement { max-width: 70% !important; } }
 
 .header-bar { border-bottom: 1px solid var(--global-divider-color); text-align: center; padding-top: 2rem; padding-bottom: 3rem; }
 
@@ -211,6 +211,8 @@ footer.sticky-bottom { border-top: 1px solid var(--global-divider-color); paddin
 .projects .grid-sizer, .projects .grid-item { width: 250px; margin-bottom: 10px; }
 
 .projects h2.category { color: var(--global-divider-color); border-bottom: 1px solid var(--global-divider-color); padding-top: 0.5rem; margin-top: 2rem; margin-bottom: 1rem; text-align: right; }
+
+.announcement { width: auto; max-width: 65% !important; margin-top: 10px; margin-bottom: 10px; border-radius: 20px; background-color: var(--global-code-bg-announcement); }
 
 .publications { margin-top: 2rem; }
 
