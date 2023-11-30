@@ -3,7 +3,7 @@ layout: about
 title: About Me
 permalink: /
 subtitle: >
-  <b>PhD Candidate</b> ⎟ <b>DL</b> ⎟ <b>CV</b> ⎟ <b>Genetics</b> ⎟ <b>Data Science</b>
+  <b>Deep Learning</b> ⎟ <b>Computer Vision</b> ⎟ <b>Genetics</b> ⎟ <b>Data Science</b>
 
 profile:
   align: right
@@ -16,7 +16,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 announcement: >
-  Actively looking for <b>2024 Summer Internship</b> in Data Science, Quantitative Genetics, Computer Vision and/or Machine Learning. Please <a href="yebi@vt.edu" target="_blank">contact me</a> if you have any opportunity.
+  Actively seeking <b>2024 summer internship</b>, <b>academic postdoc</b>, and <b>industry position</b> in data science, quantitative genetics, computer vision, and/or machine learning. Please <a href="mailto:yebi@vt.edu" target="_blank">contact me</a> if you have an opportunity.
 
 ---
 I am a Ph.D. candidate from [Dr. Gota Morota](http://morotalab.org/) 's group in the School of Animal Sciences at [Virginia Polytechnic Institute and State University](https://vt.edu/). 
