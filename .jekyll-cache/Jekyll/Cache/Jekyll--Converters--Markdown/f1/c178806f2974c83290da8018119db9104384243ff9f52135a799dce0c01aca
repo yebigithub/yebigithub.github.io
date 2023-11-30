@@ -1,4 +1,4 @@
-I"»&<!-- _pages/publications.md -->
+I"Æ&<!-- _pages/publications.md -->
 <div class="publications">
   <h2 class="year">2023</h2>
   <ol class="bibliography"><li><!-- _layouts/bib.html -->
@@ -23,7 +23,7 @@
         
           <!-- Links/Buttons -->
           <div class="links">
-            <a href="https://arxiv.org/abs/2307.01383" class="btn btn-sm z-depth-0" role="button">HTML</a>
+            <a href="https://doi.org/10.1016/j.atech.2023.100352" class="btn btn-sm z-depth-0" role="button">HTML</a>
             <a href="https://github.com/yebigithub/BW_dairy" class="btn btn-sm z-depth-0" role="button">Code</a>
           </div>
 
