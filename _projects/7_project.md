@@ -1,10 +1,10 @@
-<!-- ---
+---
 layout: page
-title: Evaluating hyperspectral and genomic data for predicting rice grain traits 
-description: Utility of genomic and hyperspectral wavelength data for predicting rice phenotypes under high night time temperature stress
-img: assets/img/hyp.png
-importance: 7
+title: Estimating pig body weight by state-of-art deep learning models
+description: Deep learning prediction of pig cattle body weight
+img: assets/img/pigbw.gif
+importance: 1
 category: work
---- -->
+---
 
 
