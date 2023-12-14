@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-05-16 00:00:00-0400
+date: 2023-12-1 00:00:00-0400
 inline: true
 ---
-<strong>Oral Presentation</strong>. Depth video data-enabled predictions of longitudinal dairy cow body weight using thresholding and Mask R-CNN algorithms. School of Animal Sciences Research Day. [Slides](https://docs.google.com/presentation/d/1OJJq71HAxbWsqVaWzYRRXMic-RIrhCZRp1Zeyji_69E/edit?usp=sharing).
+<strong>[Graduate Certificate in Data Analytics]</strong> I got the Graduate Certificate in Data Analytics! [[URL]](https://dac.cs.vt.edu/academics/data-analytics/). Completed 15 credits related to advanced data science courses from the Departments of Computer Science, Electrical and Computer Engineering, and Statistics. 
