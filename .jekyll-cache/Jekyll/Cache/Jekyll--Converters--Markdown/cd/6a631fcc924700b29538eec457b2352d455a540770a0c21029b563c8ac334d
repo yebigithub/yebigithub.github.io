@@ -1,65 +1,9 @@
-I"G<!-- pages/projects.md -->
+I" <!-- pages/projects.md -->
 <div class="projects">
   <!-- Display categorized projects -->
   <h2 class="category">work</h2>
   <!-- Generate cards for each project -->
   <div class="grid"><!-- _includes/projects.html -->
-<div class="grid-sizer"></div>
-<div class="grid-item">
-  <a href="/projects/3_project/">
-      <div class="card hoverable"><figure>
-
-  <picture>
-    
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/bw-480.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/bw-800.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/bw-1400.webp" />
-    
-
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/bw.png" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
-
-  </picture>
-
-</figure>
-
-        <div class="card-body">
-          <h2 class="card-title font-weight-medium">Deep learning prediction of dairy cattle body weight</h2>
-          <p class="card-text">Depth video data-enabled predictions of longitudinal dairy cow body weight using thresholding and Mask R-CNN algorithms</p>
-          <div class="row ml-1 mr-1 p-0">
-          </div>
-        </div>
-      </div>
-    </a>
-</div><!-- _includes/projects.html -->
-<div class="grid-sizer"></div>
-<div class="grid-item">
-  <a href="/projects/4_project/">
-      <div class="card hoverable"><figure>
-
-  <picture>
-    
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/bcs-480.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/bcs-800.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/bcs-1400.webp" />
-    
-
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/bcs.jpeg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
-
-  </picture>
-
-</figure>
-
-        <div class="card-body">
-          <h2 class="card-title font-weight-medium">Video-based cow body condition score estimation</h2>
-          <p class="card-text">Estimate dairy cow body condition score via computer vision systems</p>
-          <div class="row ml-1 mr-1 p-0">
-          </div>
-        </div>
-      </div>
-    </a>
-</div><!-- _includes/projects.html -->
 <div class="grid-sizer"></div>
 <div class="grid-item">
   <a href="/projects/1_project/">
@@ -90,6 +34,62 @@
 </div><!-- _includes/projects.html -->
 <div class="grid-sizer"></div>
 <div class="grid-item">
+  <a href="/projects/3_project/">
+      <div class="card hoverable"><figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/DairyBW/bw-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/DairyBW/bw-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/DairyBW/bw-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/DairyBW/bw.png" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+          <h2 class="card-title font-weight-medium">Deep learning prediction of dairy cattle body weight</h2>
+          <p class="card-text">Depth video data-enabled predictions of longitudinal dairy cow body weight using thresholding and Mask R-CNN algorithms</p>
+          <div class="row ml-1 mr-1 p-0">
+          </div>
+        </div>
+      </div>
+    </a>
+</div><!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <a href="/projects/8_project/">
+      <div class="card hoverable"><figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/GP4Met/DL_Results-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/GP4Met/DL_Results-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/GP4Met/DL_Results-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/GP4Met/DL_Results.png" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+          <h2 class="card-title font-weight-medium">Genomic prediction for metabolites in rice</h2>
+          <p class="card-text">Role of genomics on regulating rice grain metabolic variability under warmer nights, A statistical and image-based deep learning approach</p>
+          <div class="row ml-1 mr-1 p-0">
+          </div>
+        </div>
+      </div>
+    </a>
+</div><!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
   <a href="/projects/2_project/">
       <div class="card hoverable"><figure>
 
@@ -110,6 +110,34 @@
         <div class="card-body">
           <h2 class="card-title font-weight-medium">Rice phenotypic plasticity analysis</h2>
           <p class="card-text">Rice phenotypic plasticity analysis using a random regression model</p>
+          <div class="row ml-1 mr-1 p-0">
+          </div>
+        </div>
+      </div>
+    </a>
+</div><!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <a href="/projects/4_project/">
+      <div class="card hoverable"><figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/bcs-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/bcs-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/bcs-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/bcs.jpeg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+          <h2 class="card-title font-weight-medium">Video-based cow body condition score estimation</h2>
+          <p class="card-text">Estimate dairy cow body condition score via computer vision systems</p>
           <div class="row ml-1 mr-1 p-0">
           </div>
         </div>
