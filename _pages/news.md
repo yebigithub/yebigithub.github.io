@@ -6,6 +6,9 @@ description: News so far.
 nav: true
 nav_order: 6
 ---
+
+<u>Jan 11, 2024</u> &nbsp;&nbsp; <strong>[New paper accepted!]</strong> Kenan Burak Aydin, Ye Bi, Luiz F. Brito, Zafer Uluta¸s, and Gota Morota. Review of sheep breeding and genetic research in Turkiye. <i>Frontiers in Genetics</i>. In press.
+
 <u>Dec 1, 2023</u> &nbsp;&nbsp; <strong>[Graduate Certificate in Data Analytics]</strong> I got the Graduate Certificate in Data Analytics! [[URL]](https://dac.cs.vt.edu/academics/data-analytics/). Completed 15 credits related to advanced data science courses from the Departments of Computer Science, Electrical and Computer Engineering, and Statistics. 
 
 <u>Nov 17, 2023</u> &nbsp;&nbsp;  <strong>[Passed preliminary]</strong> Excited to share that I've achieved a significant milestone in my academic journey! Please call me Candidate Bi. 😆😆 Grateful for the invaluable guidance from my advisor and the tremendous efforts of my dedicated committee members. Special thanks to all my teammates and collaborators for their unwavering support – this achievement wouldn't have been possible without you! 🙌 Here's to the next chapter! 🎓🌟 
