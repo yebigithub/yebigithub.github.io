@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-<u>Jan 11, 2024</u> &nbsp;&nbsp; <strong>[New paper accepted!]</strong> Kenan Burak Aydin, Ye Bi, Luiz F. Brito, Zafer Uluta¸s, and Gota Morota. Review of sheep breeding and genetic research in Turkiye. <i>Frontiers in Genetics</i>. In press.
+<u>Jan 11, 2024</u> &nbsp;&nbsp; <strong>[New paper accepted!]</strong> Kenan Burak Aydin, Ye Bi, Luiz F. Brito, Zafer Uluta¸s, and Gota Morota. Review of sheep breeding and genetic research in Turkiye. <i>Frontiers in Genetics</i>. doi: [10.3389/fgene.2024.1308113](https://doi.org/10.3389/fgene.2024.1308113).
 
 <u>Dec 1, 2023</u> &nbsp;&nbsp; <strong>[Graduate Certificate in Data Analytics]</strong> I got the Graduate Certificate in Data Analytics! [[URL]](https://dac.cs.vt.edu/academics/data-analytics/). Completed 15 credits related to advanced data science courses from the Departments of Computer Science, Electrical and Computer Engineering, and Statistics. 
 

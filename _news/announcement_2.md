@@ -4,7 +4,7 @@ title: Poster presentation
 date: 2024-1-11 13:15:00-0400
 inline: true
 ---
-<strong>[New paper accepted!]</strong> Kenan Burak Aydin, Ye Bi, Luiz F. Brito, Zafer Uluta¸s, and Gota Morota. Review of sheep breeding and genetic research in Turkiye. <i>Frontiers in Genetics</i>. In press.
+<strong>[New paper accepted!]</strong> Kenan Burak Aydin, Ye Bi, Luiz F. Brito, Zafer Uluta¸s, and Gota Morota. Review of sheep breeding and genetic research in Turkiye. <i>Frontiers in Genetics</i>. doi: [10.3389/fgene.2024.1308113](https://doi.org/10.3389/fgene.2024.1308113).
 
 <!-- ***
 
