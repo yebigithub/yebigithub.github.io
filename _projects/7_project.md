@@ -1,10 +1,10 @@
 ---
-# layout: page
-# title: Estimating pig body weight by state-of-art deep learning models
-# description: Deep learning prediction of pig cattle body weight
-# img: assets/img/pigbw.gif
-# importance: 1
-# category: work
-# ---
+layout: page
+title: Time series analysis in sesame.
+description: Leveraging genomics and temporal high-throughput phenotyping to enhance association mapping and yield prediction in sesame
+img: assets/img/Sea2/sea2.png
+importance: 2
+category: work
+---
 
 
