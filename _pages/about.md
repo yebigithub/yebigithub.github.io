@@ -16,7 +16,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 announcement: >
-  Actively seeking <b>2024 summer internship</b>, <b>academic postdoc</b>, and <b>industry position</b> in data science, quantitative genetics, computer vision, and/or machine learning. Please <a href="mailto:yebi@vt.edu" target="_blank">contact me</a> if you have an opportunity.
+  Actively seeking <b>academic postdoc</b> and <b>industry position</b> in precision livestock farming, quantitative genetics, computer vision, and/or data science. Please <a href="mailto:yebi@vt.edu" target="_blank">contact me</a> if you have an opportunity.
 
 ---
 I am a Ph.D. candidate from [Dr. Gota Morota](http://morotalab.org/) 's group in the School of Animal Sciences at [Virginia Polytechnic Institute and State University](https://vt.edu/). 
@@ -24,6 +24,7 @@ I am a Ph.D. candidate from [Dr. Gota Morota](http://morotalab.org/) 's group in
  My research interests focus on incorporating artificial intelligence, computer vision, statistics, phenomics, and genetics to study animal and plant sciences.
 
 {% include announcement.html %}
+
 
 ## Research Topics
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Precision Livestock Farming 🐷🐽🐄🐖   
