@@ -7,6 +7,8 @@ nav: true
 nav_order: 6
 ---
 
+<u>Feb 23, 2024</u> &nbsp;&nbsp; <strong>[Summer Intern]</strong>. Excited to announce that I'll be starting on my summer internship with the Precision Animal Health group at [Zoetis](https://www.zoetis.com/). 🎉🎉🎉🎉🎉 Looking forward to the journey ahead! 
+
 <u>Feb 1, 2024</u> &nbsp;&nbsp; <strong>[New Preprint!]</strong> Idan Sabag, **Ye Bi**, Maitreya Mohan sahoo, Ittai Herrmann, Gota Morota, and Zvi Peleg. Leveraging genomics and temporal high-throughput phenotyping to enhance association mapping and yield prediction in sesame. bioRxiv. [doi: 10.1101/2024.02.01.578346](https://doi.org/10.1101/2024.02.01.578346)
 
 <u>Jan 11, 2024</u> &nbsp;&nbsp; <strong>[New paper accepted!]</strong> Kenan Burak Aydin, **Ye Bi**, Luiz F. Brito, Zafer Uluta¸s, and Gota Morota. Review of sheep breeding and genetic research in Turkiye. <i>Frontiers in Genetics</i>. doi: [10.3389/fgene.2024.1308113](https://doi.org/10.3389/fgene.2024.1308113).
