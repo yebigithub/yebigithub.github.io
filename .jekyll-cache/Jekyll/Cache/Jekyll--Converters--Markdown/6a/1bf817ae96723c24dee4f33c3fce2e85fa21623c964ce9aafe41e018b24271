@@ -1,7 +1,36 @@
-I"É*<!-- _pages/publications.md -->
+I"ï.<!-- _pages/publications.md -->
 <div class="publications">
   <h2 class="year">2024</h2>
   <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge" style="background-color:#1c7cb7"><a href="">Preprint</a></abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="sabag2024leveraging" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Leveraging genomics and temporal high-throughput phenotyping to enhance association mapping and yield prediction in sesame</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Idan Sabag,&nbsp;Ye Bi,&nbsp;Maitreya Mohan Sahoo,&nbsp;Ittai Herrmann,&nbsp;Gota Morota,&nbsp;and&nbsp;Zvi Peleg</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>bioRxiv</em> 2024
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a href="https://www.biorxiv.org/content/10.1101/2024.02.01.578346v1" class="btn btn-sm z-depth-0" role="button">HTML</a>
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
       <div class="row">
         <div class="col-sm-2 abbr"><abbr class="badge" style="background-color:#B71C1C"><a href="">Paper</a></abbr></div>
 
