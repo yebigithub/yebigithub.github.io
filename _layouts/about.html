@@ -42,10 +42,19 @@ layout: default
 
           {% if page.news -%}
           <!-- News -->
+          <h2>Recent News
+            <div style="font-style: italic; font-size: 1rem; display: inline;">(<a
+                href="/news?utm_source=yebigithub.github.io&utm_medium=about-page">See All</a>)</div>
+          </h2>
           {%- include news.html %}
           {%- endif %}
+
           {% if page.selected_papers -%}
             <!-- Selected papers -->
+            <h2>Selected Publications
+              <div style="font-style: italic; font-size: 1rem; display: inline;">(<a
+                  href="/publications?utm_source=yebigithub.github.io&utm_medium=about-page">Show More</a>)</div>
+            </h2>
             {%- include selected_papers.html %}
           {%- endif %}
           {%- if page.social %}
