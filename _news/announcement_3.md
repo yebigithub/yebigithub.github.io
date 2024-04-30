@@ -1,0 +1,13 @@
+---
+layout: post
+date: 2023-12-1 00:00:00-0400
+inline: true
+---
+<p>
+    <span style="float: left; width: 75%;">
+        <strong>[Graduate Certificate in Data Analytics]</strong> I got the Graduate Certificate in Data Analytics! <a href="https://dac.cs.vt.edu/academics/data-analytics/" target="_blank"> [URL]</a>. Completed 15 credits related to advanced data science courses from the Departments of Computer Science, Electrical and Computer Engineering, and Statistics. <br><br>
+    </span>
+
+    <img src="/assets/img/DA_Certification1.png" style="float: right; width: 25%; height: 25%;" alt="DA1">
+
+</p>

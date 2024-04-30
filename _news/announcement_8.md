@@ -1,0 +1,15 @@
+---
+layout: post
+title: Pass Prelim
+date: 2023-11-17 13:15:00-0400
+inline: true
+---
+
+
+<p>
+    <span style="float: left; width: 75%;">
+        <strong>[Passed preliminary]</strong> Excited to share that I passed my preliminary and become into Ph.D Candidate! 😆😆 Grateful for the invaluable guidance from my advisor and the tremendous efforts of my dedicated committee members. 
+    </span>
+
+    <img src="/assets/img/news/greencow.gif" style="float: right; width: 25%; height: 25%;" alt="Green Cow">
+</p>
