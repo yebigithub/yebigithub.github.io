@@ -4,7 +4,7 @@ title: Evaluating metabolic and genomic data for predicting rice grain traits
 description: Evaluating metabolic and genomic data for predicting grain traits under high night temperature stress in rice.
 img: assets/img/MetUNL/title.png
 importance: 1
-category: work
+category: Quantitative Genetics
 ---
 
 <div class="row">

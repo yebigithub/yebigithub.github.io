@@ -1,0 +1,124 @@
+I"e<!-- pages/projects.md -->
+<div class="projects">
+  <!-- Display categorized projects -->
+  <h2 class="category">PLF</h2>
+  <!-- Generate cards for each project -->
+  <div class="grid">
+  </div>
+  <h2 class="category">QG</h2>
+  <!-- Generate cards for each project -->
+  <div class="grid"><!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <a href="/projects/7_project/">
+      <div class="card hoverable"><figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/Sea2/sea2-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/Sea2/sea2-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/Sea2/sea2-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/Sea2/sea2.png" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+          <h2 class="card-title font-weight-medium">Time series analysis in sesame.</h2>
+          <p class="card-text">Leveraging genomics and temporal high-throughput phenotyping to enhance association mapping and yield prediction in sesame</p>
+          <div class="row ml-1 mr-1 p-0">
+          </div>
+        </div>
+      </div>
+    </a>
+</div><!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <a href="/projects/8_project/">
+      <div class="card hoverable"><figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/GP4Met/DL_Results-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/GP4Met/DL_Results-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/GP4Met/DL_Results-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/GP4Met/DL_Results.png" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+          <h2 class="card-title font-weight-medium">Genomic prediction for metabolites in rice</h2>
+          <p class="card-text">Role of genomics on regulating rice grain metabolic variability under warmer nights, A statistical and image-based deep learning approach</p>
+          <div class="row ml-1 mr-1 p-0">
+          </div>
+        </div>
+      </div>
+    </a>
+</div><!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <a href="/projects/9_project/">
+      <div class="card hoverable"><figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/GP4Met/DL_Results-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/GP4Met/DL_Results-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/GP4Met/DL_Results-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/GP4Met/DL_Results.png" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+          <h2 class="card-title font-weight-medium">Genomic prediction for metabolites in rice</h2>
+          <p class="card-text">Role of genomics on regulating rice grain metabolic variability under warmer nights, A statistical and image-based deep learning approach</p>
+          <div class="row ml-1 mr-1 p-0">
+          </div>
+        </div>
+      </div>
+    </a>
+</div><!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <a href="/projects/6_project/">
+      <div class="card hoverable"><figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/Sea1/title-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/Sea1/title-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/Sea1/title-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/Sea1/title.png" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+          <h2 class="card-title font-weight-medium">Multi-environment genomic analysis in sesame</h2>
+          <p class="card-text">Multi-environment analysis enhances genomic prediction accuracy of agronomic traits in sesame</p>
+          <div class="row ml-1 mr-1 p-0">
+          </div>
+        </div>
+      </div>
+    </a>
+</div>
+  </div></div>
+:ET

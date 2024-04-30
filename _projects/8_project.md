@@ -3,8 +3,8 @@ layout: page
 title: Genomic prediction for metabolites in rice
 description: Role of genomics on regulating rice grain metabolic variability under warmer nights, A statistical and image-based deep learning approach
 img: /assets/img/GP4Met/DL_Results.png
-importance: 2
-category: work
+importance: 1
+category: Quantitative Genetics
 ---
 
 Preprint: [GitHub linke for more details with figures](https://github.com/yebigithub/GBLUP4Met/tree/main?tab=readme-ov-file)

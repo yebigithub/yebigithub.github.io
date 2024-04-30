@@ -3,8 +3,8 @@ layout: page
 title: Automated depth image acquisition
 description: Automated acquisition of top-view dairy cow depth image data using an RGB-D sensor camera.
 img: assets/img/Aut/title.png
-importance: 5
-category: work
+importance: 1
+category: Precision Livestock Farming
 ---
 
 
