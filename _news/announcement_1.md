@@ -11,6 +11,6 @@ inline: true
         <strong>[New paper accepted]</strong> Idan Sabag, <strong>Ye Bi</strong>, Maitreya Mohan sahoo, Ittai Herrmann, Gota Morota, and Zvi Peleg. Leveraging genomics and temporal high-throughput phenotyping to enhance association mapping and yield prediction in sesame. The Plant Genome. <a href="https://doi.org/10.1101/2024.02.01.578346" target="_blank"> doi: 10.1101/2024.02.01.578346</a> <br><br>
     </span>
 
-    <img src="/assets/img/Sea2/sea2_1.jpeg" style="float: left; width: 20%; height: 20%;" alt="DA1">
+    <img src="/assets/img/Sea2/sea2_1.jpeg" style="float: left; width: 16%; height: 16%;" alt="DA1">
 
 </p>
