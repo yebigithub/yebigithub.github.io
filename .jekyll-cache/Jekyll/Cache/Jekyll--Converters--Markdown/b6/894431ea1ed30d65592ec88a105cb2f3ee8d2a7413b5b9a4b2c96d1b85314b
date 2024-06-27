@@ -1,4 +1,4 @@
-I"&B<!-- pages/projects.md -->
+I"6B<!-- pages/projects.md -->
 <div class="projects">
   <!-- Display categorized projects -->
   <h2 class="category">Precision Livestock Farming</h2>
@@ -118,26 +118,26 @@
 </div><!-- _includes/projects.html -->
 <div class="grid-sizer"></div>
 <div class="grid-item">
-  <a href="/projects/4_project/">
+  <a href="/projects/15_project/">
       <div class="card hoverable"><figure>
 
   <picture>
     
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/bcs-480.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/bcs-800.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/bcs-1400.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/pigtrack.gif-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/pigtrack.gif-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/pigtrack.gif-1400.webp" />
     
 
     <!-- Fallback to the original file -->
-    <img src="/assets/img/bcs.jpeg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/assets/img/pigtrack.gif" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
 
   </picture>
 
 </figure>
 
         <div class="card-body">
-          <h2 class="card-title font-weight-medium">Video-based cow body condition score estimation</h2>
-          <p class="card-text">Estimate dairy cow body condition score via computer vision systems</p>
+          <h2 class="card-title font-weight-medium">Tracking of multiple pigs under control and stress conditions</h2>
+          <p class="card-text"></p>
           <div class="row ml-1 mr-1 p-0">
           </div>
         </div>
@@ -157,7 +157,7 @@
     
 
     <!-- Fallback to the original file -->
-    <img src="/assets/img/PigActivity/act.png" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/assets/img/PigActivity/act.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
 
   </picture>
 
@@ -202,34 +202,6 @@
 </div><!-- _includes/projects.html -->
 <div class="grid-sizer"></div>
 <div class="grid-item">
-  <a href="/projects/15_project/">
-      <div class="card hoverable"><figure>
-
-  <picture>
-    
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/pig_BCS-480.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/pig_BCS-800.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/pig_BCS-1400.webp" />
-    
-
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/pig_BCS.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
-
-  </picture>
-
-</figure>
-
-        <div class="card-body">
-          <h2 class="card-title font-weight-medium">Tracking of multiple pigs under control and stress conditions</h2>
-          <p class="card-text"></p>
-          <div class="row ml-1 mr-1 p-0">
-          </div>
-        </div>
-      </div>
-    </a>
-</div><!-- _includes/projects.html -->
-<div class="grid-sizer"></div>
-<div class="grid-item">
   <a href="/projects/12_project/">
       <div class="card hoverable"><figure>
 
@@ -250,6 +222,34 @@
         <div class="card-body">
           <h2 class="card-title font-weight-medium">Calf Diarrhea Early Detection</h2>
           <p class="card-text"></p>
+          <div class="row ml-1 mr-1 p-0">
+          </div>
+        </div>
+      </div>
+    </a>
+</div><!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <a href="/projects/4_project/">
+      <div class="card hoverable"><figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/bcs-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/bcs-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/bcs-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/bcs.jpeg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+          <h2 class="card-title font-weight-medium">Video-based cow body condition score estimation</h2>
+          <p class="card-text">Estimate dairy cow body condition score via computer vision systems</p>
           <div class="row ml-1 mr-1 p-0">
           </div>
         </div>

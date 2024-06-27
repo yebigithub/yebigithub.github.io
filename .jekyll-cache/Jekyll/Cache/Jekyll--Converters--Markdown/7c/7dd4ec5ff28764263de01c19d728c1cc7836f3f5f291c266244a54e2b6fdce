@@ -1,9 +1,9 @@
-I"ï.<!-- _pages/publications.md -->
+I"ì.<!-- _pages/publications.md -->
 <div class="publications">
   <h2 class="year">2024</h2>
   <ol class="bibliography"><li><!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 abbr"><abbr class="badge" style="background-color:#1c7cb7"><a href="">Preprint</a></abbr></div>
+        <div class="col-sm-2 abbr"><abbr class="badge" style="background-color:#B71C1C"><a href="">Paper</a></abbr></div>
 
         <!-- Entry bib key -->
         <div id="sabag2024leveraging" class="col-sm-8">
