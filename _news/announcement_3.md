@@ -1,13 +1,12 @@
 ---
 layout: post
-date: 2023-12-1 00:00:00-0400
+date: 2024-06-20 00:00:00-0400
 inline: true
 ---
 <p>
     <span style="float: left; width: 75%;">
-        <strong>[Graduate Certificate in Data Analytics]</strong> I got the Graduate Certificate in Data Analytics! <a href="https://dac.cs.vt.edu/academics/data-analytics/" target="_blank"> [URL]</a>. Completed 15 credits related to advanced data science courses from the Departments of Computer Science, Electrical and Computer Engineering, and Statistics. <br><br>
+        <strong>[Travel Award!]</strong> I'm thrilled to announce that I was awarded the CAIA Graduate Student Travel Award ($1000) from <a href='https://caia.cals.vt.edu/'> [Center for Advanced Innovation in Agriculture (CAIA)] </a>, Virginia Tech.
     </span>
 
-    <img src="/assets/img/DA_Certification1.png" style="float: right; width: 25%; height: 25%;" alt="DA1">
-
+    <img src="/assets/img/CAIA.png" style="float: middle; width: 15%; height: 15%;" alt="CAIA">
 </p>
