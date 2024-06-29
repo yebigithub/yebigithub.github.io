@@ -19,7 +19,7 @@ announcement: >
   Actively seeking <b>academic postdoc</b> and <b>industry position</b> in precision livestock farming, quantitative genetics, computer vision, and/or data science. Please <a href="mailto:yebi@vt.edu" target="_blank">contact me</a> if you have an opportunity.
 
 ---
-I am a Ph.D. candidate from [Dr. Gota Morota](http://morotalab.org/) 's group in the School of Animal Sciences at [Virginia Polytechnic Institute and State University](https://vt.edu/). 
+I am a Ph.D. candidate from [Dr. Gota Morota](http://morotalab.org/)'s group in the School of Animal Sciences at [Virginia Polytechnic Institute and State University](https://vt.edu/). 
 
 My research interests focus on incorporating artificial intelligence, computer vision, statistics, phenomics, and genetics to study animal and plant sciences.
 

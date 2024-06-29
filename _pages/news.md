@@ -11,8 +11,7 @@ nav_order: 6
 
 <u>June 20, 2024</u> I'm thrilled to announce that I was awarded the CAIA Graduate Student Travel Award ($1000) from [Center for Advanced Innovation in Agriculture (CAIA)](https://caia.cals.vt.edu/), Virginia Tech.
 
-
-<u>May 20, 2024</u> &nbsp;&nbsp; <strong>[New Paper Accepted!]</strong> Idan Sabag, **Ye Bi**, Maitreya Mohan sahoo, Ittai Herrmann, Gota Morota, and Zvi Peleg. Leveraging genomics and temporal high-throughput phenotyping to enhance association mapping and yield prediction in sesame. The Plant Genome. [doi: 10.1101/2024.02.01.578346](https://doi.org/10.1101/2024.02.01.578346)
+<u>May 20, 2024</u> &nbsp;&nbsp; <strong>[New Paper Accepted!]</strong> Idan Sabag, **Ye Bi**, Maitreya Mohan sahoo, Ittai Herrmann, Gota Morota, and Zvi Peleg. Leveraging genomics and temporal high-throughput phenotyping to enhance association mapping and yield prediction in sesame. The Plant Genome. Early view. doi: [10.1002/tpg2.20481](https://doi.org/10.1002/tpg2.20481)
 
 <u>Feb 23, 2024</u> &nbsp;&nbsp; <strong>[Summer Intern]</strong>. Excited to announce that I'll be starting on my summer internship with the Precision Animal Health group at [Zoetis](https://www.zoetis.com/). 🎉🎉🎉🎉🎉 Looking forward to the journey ahead! 
 
