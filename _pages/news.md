@@ -7,6 +7,11 @@ nav: true
 nav_order: 6
 ---
 
+<u>July 25, 2024</u> &nbsp;&nbsp; <strong>[New Preprint]</strong> **Ye Bi**, Harkamal Walia, Toshihiro Obata, and Gota Morota. Genomic prediction of metabolic content in rice grain in response to warmer night conditions. [doi:10.1101/2024.07.23.604827](https://doi.org/10.1101/2024.07.23.604827)
+
+<u>July 25, 2024</u> Industry-scale prediction of video-derived pig body weight using efficient convolutional neural networks and vision transformers. The impact of trait measurement error on quantitative genetic analysis. 2024 ASAS-CSAS-WSASAS Annual Meeting. Calgary TELUS Convention Centre, Calgary, Alberta, Canada. July 21-25, 2024.
+
+
 <u>June 26, 2024</u> I'm excited to share that I received the [Agricultural Genome to Phenome Initiative (AG2PI)](https://www.ag2pi.org/) Student Conference Travel Award ($1500) from the U.S. Department of Agriculture (USDA), National Institute of Food and Agriculture (NIFA).
 
 <u>June 20, 2024</u> I'm thrilled to announce that I was awarded the CAIA Graduate Student Travel Award ($1000) from [Center for Advanced Innovation in Agriculture (CAIA)](https://caia.cals.vt.edu/), Virginia Tech.
