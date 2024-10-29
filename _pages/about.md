@@ -19,7 +19,7 @@ announcement: >
   Excited to collaborate on research in precision livestock farming, quantitative genetics, AI, machine learning, and computer vision. Eager to contribute to innovative projects — <a href="mailto:yebi@vt.edu" target="_blank">reach out</a> for potential collaboration!
 
 ---
-I am a Ph.D. candidate from [Dr. Gota Morota](http://morotalab.org/)'s group in the School of Animal Sciences at [Virginia Polytechnic Institute and State University](https://vt.edu/). 
+I recently defended my Ph.D. dissertation in the School of Animal Sciences at [Virginia Polytechnic Institute and State University](https://vt.edu/) and expect to graduate in December 2024.
 
 My research interests focus on incorporating artificial intelligence, computer vision, statistics, phenomics, and genetics to study animal and plant sciences.
 
