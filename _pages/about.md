@@ -7,7 +7,7 @@ subtitle: >
 
 profile:
   align: middle
-  image: ye0.jpeg
+  image: ye2024_1.png
   image_circular: false # crops the image to make it circular
   address: >
 
