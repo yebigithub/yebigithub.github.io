@@ -1,7 +1,36 @@
-I"3<!-- _pages/publications.md -->
+I"Œ6<!-- _pages/publications.md -->
 <div class="publications">
   <h2 class="year">2024</h2>
   <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">Dissertation</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="bi2024digital" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Digital Phenotyping and Genomic Prediction Using Machine and Deep Learning in Animals and Plants</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Ye Bi</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em></em> 2024
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a href="https://vtechworks.lib.vt.edu/items/9fa0d92a-568b-40be-bc18-da2040277069" class="btn btn-sm z-depth-0" role="button">HTML</a>
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
       <div class="row">
         <div class="col-sm-2 abbr"><abbr class="badge" style="background-color:#1c7cb7"><a href="">Preprint</a></abbr></div>
 
