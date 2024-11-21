@@ -7,6 +7,8 @@ nav: true
 nav_order: 6
 ---
 
+<u>Nov 20, 2024</u> &nbsp;&nbsp; <strong>[New Paper Accept]</strong> **Ye Bi**, Harkamal Walia, Toshihiro Obata, and Gota Morota. Genomic prediction of metabolic content in rice grain in response to warmer night conditions. Crop Science. In-press. [doi:10.1101/2024.07.23.604827](https://doi.org/10.1101/2024.07.23.604827)
+
 <u>Sep 18, 2024</u> &nbsp;&nbsp; <strong>[Pass PhD defense!]</strong> I’m excited to share that I’ve successfully defended my Ph.D. dissertation, “Digital phenotyping and genomic prediction using machine and deep learning in animals and plants.” Grateful for all the support throughout this journey
 
 <u>July 25, 2024</u> &nbsp;&nbsp; <strong>[New Preprint]</strong> **Ye Bi**, Harkamal Walia, Toshihiro Obata, and Gota Morota. Genomic prediction of metabolic content in rice grain in response to warmer night conditions. [doi:10.1101/2024.07.23.604827](https://doi.org/10.1101/2024.07.23.604827)
