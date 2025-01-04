@@ -6,7 +6,7 @@ title: Ye Bi 毕晔 # the website title (if blank, full name will be used instea
 first_name: Ye
 middle_name: 
 last_name: Bi
-email: yebi@vt.edu
+email: yebi@iastate.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   My personal website.
 footer_text: >
@@ -85,7 +85,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-    <p>Litton Reaves Hall, 175 West Campus Drive, Blacksburg, Virginia 24061</p>
+    <p>225B Kildee Hall, 806 Stange Rd, Iowa State University, Ames, IA, 50011, USA</p>
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

@@ -7,7 +7,7 @@ inline: true
 
 <p>
     <span style="float: left; width: 75%;">
-    <strong>[New Paper Accept]</strong> <strong>Ye Bi</strong>, Harkamal Walia, Toshihiro Obata, and Gota Morota. Genomic prediction of metabolic content in rice grain in response to warmer night conditions. Crop Science. In press. <a href="https://doi.org/10.1101/2024.07.23.604827" target="_blank"> doi:10.1101/2024.07.23.604827</a>.<br><br><br>
+    <strong>[New Paper Accept]</strong> <strong>Ye Bi</strong>, Harkamal Walia, Toshihiro Obata, and Gota Morota. Genomic prediction of metabolic content in rice grain in response to warmer night conditions. Crop Science, 65(1), p.e21435. <a href="https://doi.org/10.1002/csc2.21435" target="_blank"> doi:10.1002/csc2.21435</a>.<br><br><br>
     </span>
 
     <img src="/assets/img/gp4met.jpg" style="float: right; width: 25%; height: 25%;" alt="gp4met">

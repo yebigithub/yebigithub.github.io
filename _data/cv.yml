@@ -4,15 +4,22 @@
     - name: Full Name
       value: Ye Bi
     - name: Email
-      value: yebi@vt.edu
+      value: yebi@iastate.edu
 
+- title: Professional Positions
+  type: time_table
+  contents:
+    - title: Postdoctoral Research Associate
+      institution: Iowa State Univeristy
+      year: 2025-now
+      # description: 
 
 - title: Education
   type: time_table
   contents:
     - title: Ph.D. Candidate
       institution: Virginia Tech
-      year: 2021--now
+      year: 2021--2024
       description: 
       - Precision Livestock Farming 🐷🐽🐄🐖   
       - Quantitative Genetics for animals 🐄🐂  
