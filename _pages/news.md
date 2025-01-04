@@ -7,7 +7,10 @@ nav: true
 nav_order: 6
 ---
 
-<u>Nov 20, 2024</u> &nbsp;&nbsp; <strong>[New Paper Accept]</strong> **Ye Bi**, Harkamal Walia, Toshihiro Obata, and Gota Morota. Genomic prediction of metabolic content in rice grain in response to warmer night conditions. Crop Science. In-press. [doi:10.1101/2024.07.23.604827](https://doi.org/10.1101/2024.07.23.604827)
+<u>Jan 02, 2025</u> &nbsp;&nbsp; I’m happy to share that I’m starting a new position as Postdoctoral Research Associate at Iowa State University! 🔥🔥
+
+
+<u>Nov 20, 2024</u> &nbsp;&nbsp; <strong>[New Paper Accept]</strong> **Ye Bi**, Harkamal Walia, Toshihiro Obata, and Gota Morota. Genomic prediction of metabolic content in rice grain in response to warmer night conditions. Crop Science, 65(1), p.e21435. [doi:10.1002/csc2.21435](https://doi.org/10.1002/csc2.21435)
 
 <u>Sep 18, 2024</u> &nbsp;&nbsp; <strong>[Pass PhD defense!]</strong> I’m excited to share that I’ve successfully defended my Ph.D. dissertation, “Digital phenotyping and genomic prediction using machine and deep learning in animals and plants.” Grateful for all the support throughout this journey
 
@@ -64,3 +67,5 @@ nav_order: 6
 <u>Jul 18, 2022</u>  &nbsp;&nbsp; [27th Summer Institute in Statistical Genetics (SISG) Scholarship](https://si.biostat.washington.edu/scholarships), University of Washington, Seattle, WA, July 18-27.
 
 <u>Jun 26, 2022</u> &nbsp;&nbsp; [Poster Presentation](https://cdmcd.co/DwBqXa). Development of Automated Computer Vision Systems for Evaluating Dairy Cow Body Weight and Body Condition Scores. ASAS-CSAS 2022 annual meeting, Oklahoma City, Oklahoma. June 26-30.
+
+<u>Aug 17, 2021</u> &nbsp;&nbsp; I’m happy to share that I’m starting a Ph.D. journey from Dr. Gota Morota's group in Virginia Tech. 🔥🔥
