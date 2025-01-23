@@ -7,6 +7,8 @@ nav: true
 nav_order: 6
 ---
 
+<u>Jan 10, 2025</u> &nbsp;&nbsp; <strong>[Oral presentation]</strong> Excited to join PAG32 in San Diego this week! Honored to present a short talk on our recent research as an Early Career Speaker in the Genomic Selection and Genome-Wide Association Studies session.🥳 I really appreciate this opportunity to share our work and connect with fellow researchers!🎉
+
 <u>Jan 02, 2025</u> &nbsp;&nbsp; I’m happy to share that I’m starting a new position as Postdoctoral Research Associate at Iowa State University! 🔥🔥
 
 
