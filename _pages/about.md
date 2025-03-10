@@ -16,7 +16,9 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 announcement: >
-  Excited to collaborate on research in precision livestock farming, quantitative genetics, AI, machine learning, and computer vision. Eager to contribute to innovative projects — <a href="mailto:yebi@iastate.edu" target="_blank">reach out</a> for potential collaboration!
+ Happy Spring! 🌷🌸🌿🌞🐦🌼🌻🐝🦋. 
+ 
+ <br>Feel free to <a href="mailto:yebi@iastate.edu" target="_blank">reach out</a> 📩
 
 ---
 
