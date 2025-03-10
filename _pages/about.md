@@ -6,9 +6,9 @@ subtitle: >
   <b>Deep Learning</b> ⎟ <b>Computer Vision</b> ⎟ <b>Genetics</b> ⎟ <b>Data Science</b>
 
 profile:
-  align: middle
-  image: yehokie.jpeg
-  image_circular: true # crops the image to make it circular
+  align: right
+  image: ye_magic.jpeg
+  image_circular: false # crops the image to make it circular
   address: >
 
 
@@ -22,7 +22,7 @@ announcement: >
 
 ---
 
-I am a Postdoctoral Research Associate from [Dr. Juan Steibel](https://www.ans.iastate.edu/people/juan-steibel)'s group in the Department of Animal Science at [Iowa State University](https://www.iastate.edu/). 
+I am a Postdoctoral Research Associate from [Dr. Juan Pedro Steibel](https://www.ans.iastate.edu/people/juan-steibel)'s group in the Department of Animal Science at [Iowa State University](https://www.iastate.edu/). 
 
 I earned my Ph.D. under the mentorship of [Dr. Gota Morota](http://morotalab.org/) in the School of Animal Science at [Virginia Polytechnic Institute and State University](https://vt.edu/).
 
