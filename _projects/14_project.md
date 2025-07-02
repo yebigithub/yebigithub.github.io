@@ -1,8 +1,9 @@
-<!-- ---
+---
 layout: page
-title: Pig Body Condition Score Estimation
+title: Automated Segmentation and Tracking of Group Housed Pigs Using Zero-Shot Vision-Language Tools
+
 description: 
-img: /assets/img/pig_BCS.jpg
-importance: 4
+img: /assets/img/zsl.png
+importance: 1
 category: Precision Livestock Farming
---- -->
+---
