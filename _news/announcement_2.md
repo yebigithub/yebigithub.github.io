@@ -10,7 +10,7 @@ inline: true
     <strong>[New Preprint]</strong> <strong>Ye Bi</strong>, Yijian Huang, Haipeng Yu, and Gota Morota. "Impact of trait measurement error on quantitative genetic analysis of computer vision derived traits." bioRxiv (2025): 2025-06. <a href="https://doi.org/10.1101/2025.06.02.657462" target="_blank"> doi:10.1101/2025.06.02.657462</a>.<br><br><br>
     </span>
 
-    <img src="/assets/img/tme.png" style="float: right; width: 35%; height: 35%;" alt="tme">
+    <img src="/assets/img/tme.png" style="float: right; width: 25%; height: 25%;" alt="tme">
 
 </p>
 

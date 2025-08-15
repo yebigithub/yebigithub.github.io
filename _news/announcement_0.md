@@ -1,13 +1,13 @@
 ---
 layout: post
 title: paper accepted
-date: 2025-01-02 00:00:00-0400
+date: 2025-08-12 00:00:00-0400
 inline: true
 ---
 
 <p>
-    <span style="float: left; width: 75%;">
-        I’m happy to share that I’m starting a new position as Postdoctoral Research Associate at Iowa State University! 🔥🔥
+    <span style="float: left; width: 63%;">
+        <strong>[New Paper Accepted]</strong> <strong>Ye Bi</strong>, Yijian Huang, Jianhua Xuan, and Gota Morota. Industry-scale prediction of video-derived pig body weight using efficient convolutional neural networks and vision transformers. Biosystems Engineering 257 (2025): 104243. <a href="https://doi.org/10.1016/j.biosystemseng.2025.104243" target="_blank"> doi:10.1016/j.biosystemseng.2025.104243</a> 
     </span>
-    <img src="/assets/img/isu_ans.jpg" style="float: left; width: 15%; height: 15%;" alt="isu_ans">
+    <img src="/assets/img/bse.jpg" style="float: middle; width: 35%; height: 35%;" alt="isu_ans">
 </p>
