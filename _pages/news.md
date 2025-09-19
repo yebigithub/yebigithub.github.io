@@ -7,6 +7,8 @@ nav: true
 nav_order: 6
 ---
 
+<u>July 06, 2025</u> &nbsp;&nbsp; <strong>[Oral presentation]</strong> Glad to give one oral presentation in ASAS2025!! Automated segmentation and tracking of group housed pigs using zero-shot vision-language tools. 2025 ASAS-CSAS Annual Meeting. Hollywood, Florida. July 6-10. 2025.
+
 <u>August 12, 2025</u> &nbsp;&nbsp;<strong>[New Preprint]</strong> <strong>Ye Bi</strong>, Yijian Huang, Jianhua Xuan, and Gota Morota. "Industry-scale prediction of video-derived pig body weight using efficient convolutional neural networks and vision transformers." Biosystems Engineering 257 (2025): 104243. [doi:10.1016/j.biosystemseng.2025.104243](https://doi.org/10.1016/j.biosystemseng.2025.104243)
 
 
