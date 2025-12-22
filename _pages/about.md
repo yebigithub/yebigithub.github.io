@@ -17,8 +17,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 announcement: >
  Happy New Year! 🌷🌸🌿🌞🐦🌼🌻🐝🦋. 
+ <br>Please note that my VT email address, yebi@vt.edu, will expire soon. For future correspondence, please use yebi@iastate.edu 📩
+ <br>My Google Scholar profile will also be updated accordingly and is available <a href="https://scholar.google.com/citations?user=bh-RrUMAAAAJ&hl" target="_blank">here</a>
+
  
- <br>Feel free to <a href="mailto:yebi@iastate.edu" target="_blank">reach out</a> 📩
+#  <br>Feel free to <a href="mailto:yebi@iastate.edu" target="_blank">reach out</a> 📩
+
+#  Currently my vt email address will be expired soon, please contact my iastate email. This also influence my google scholar. The current google scholar website is [here](https://scholar.google.com/citations?user=bh-RrUMAAAAJ&hl)
+
 
 ---
 
@@ -36,10 +42,3 @@ My research interests focus on incorporating artificial intelligence, computer v
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Quantitative Genetics for plants 🌿🌾
 <br><br>
 
-<!-- Before joing VT, I obtained a master degree in Animal Biology at [University of California Davis](https://animalscience.ucdavis.edu/), a master degree in Animal Nutrition and Feed Science at [Chinese Academy of Agricultural Sciences](https://www.caas.cn/), a bachelor degree in Animal Science at [Shandong Agricultural University](http://www.sdau.edu.cn/). -->
-
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
