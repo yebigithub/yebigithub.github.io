@@ -6,10 +6,11 @@ description: News so far.
 nav: true
 nav_order: 6
 ---
+<u>April 03, 2026</u> &nbsp;&nbsp;<strong>[New Preprint]</strong> The first project I lead as a postdoc in Dr. Steibel's group in ISU! Big milestone!🐷🐖📸📽️  <strong>Ye Bi</strong>, Bimala Acharya, David Rosero, and Juan Steibel. Automated Segmentation and Tracking of Group Housed Pigs Using Foundation Models. bioRxiv (2026). doi: [10.48550/arXiv.2604.03426](https://doi.org/10.48550/arXiv.2604.03426).
 
 <u>July 06, 2025</u> &nbsp;&nbsp; <strong>[Oral presentation]</strong> Glad to give one oral presentation in ASAS2025!! Automated segmentation and tracking of group housed pigs using zero-shot vision-language tools. 2025 ASAS-CSAS Annual Meeting. Hollywood, Florida. July 6-10. 2025.
 
-<u>August 12, 2025</u> &nbsp;&nbsp;<strong>[New Preprint]</strong> <strong>Ye Bi</strong>, Yijian Huang, Jianhua Xuan, and Gota Morota. "Industry-scale prediction of video-derived pig body weight using efficient convolutional neural networks and vision transformers." Biosystems Engineering 257 (2025): 104243. [doi:10.1016/j.biosystemseng.2025.104243](https://doi.org/10.1016/j.biosystemseng.2025.104243)
+<u>August 12, 2025</u> &nbsp;&nbsp;<strong>[New paper accpeted!]</strong> <strong>Ye Bi</strong>, Yijian Huang, Jianhua Xuan, and Gota Morota. "Industry-scale prediction of video-derived pig body weight using efficient convolutional neural networks and vision transformers." Biosystems Engineering 257 (2025): 104243. [doi:10.1016/j.biosystemseng.2025.104243](https://doi.org/10.1016/j.biosystemseng.2025.104243)
 
 
 <u>June 6, 2025</u> &nbsp;&nbsp;<strong>[New Preprint]</strong> <strong>Ye Bi</strong>, Yijian Huang, Haipeng Yu, and Gota Morota. "Impact of trait measurement error on quantitative genetic analysis of computer vision derived traits." bioRxiv (2025): 2025-06. [doi:10.1101/2025.06.02.657462](https://doi.org/10.1101/2025.06.02.657462)
