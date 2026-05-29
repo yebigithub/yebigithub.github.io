@@ -16,7 +16,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 announcement: >
- Happy Srping! 🌷🌸🌿🌞🐦🌼🌻🐝🦋. 
+ Happy Summer! 🌷🌸🌿🌞🐦🌼🌻🐝🦋. 
  <br>Please note that my VT email (yebi@vt.edu) has already expired. 
  <br>Feel free to contact me via yebi@iastate.edu 📩
  <br>My Google Scholar profile will also be updated <a href="https://scholar.google.com/citations?user=bh-RrUMAAAAJ&hl" target="_blank">here</a>
