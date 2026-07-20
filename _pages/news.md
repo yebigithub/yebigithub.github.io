@@ -6,6 +6,10 @@ description: News so far.
 nav: true👩🏻‍💻
 nav_order: 6
 ---
+
+<u>July 12-17, 2026</u> &nbsp;&nbsp;<strong>[WCGALP2026]</strong> Happy to have joined #WCGALP for the first time last week in Madison, Wisconsin! I had the opportunity to present our recent research on animal tracking and novel behavior phenotyping using zero-shot learning and foundation models. It was a great experience to share our work and receive valuable feedback from the community. 
+
+
 <u>April 24, 2026</u> &nbsp;&nbsp;<strong>[New paper accpeted! Last paper from my PhD journey]</strong> 🎨👩🏻‍💻🎓 <strong>Ye Bi</strong>, Yijian Huang, Haipeng Yu, and Gota Morota. Impact of Trait Measurement Error on Quantitative Genetic Analysis of Computer Vision-Derived Traits. Genes 17, no. 5 (2026): 506. [doi: 10.3390/genes17050506](https://doi.org/10.3390/genes17050506)
 
 <u>April 03, 2026</u> &nbsp;&nbsp;<strong>[New Preprint]</strong> The first project I lead as a postdoc in Dr. Steibel's group in ISU! Big milestone!🐷🐖📸📽️  <strong>Ye Bi</strong>, Bimala Acharya, David Rosero, and Juan Steibel. Automated Segmentation and Tracking of Group Housed Pigs Using Foundation Models. arXiv preprint arXiv:2604.03426 (2026). doi: [10.48550/arXiv.2604.03426](https://doi.org/10.48550/arXiv.2604.03426).
