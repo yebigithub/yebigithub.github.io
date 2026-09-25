@@ -1,7 +1,36 @@
-I"PK<!-- _pages/publications.md -->
+I"6O<!-- _pages/publications.md -->
 <div class="publications">
   <h2 class="year">2026</h2>
   <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge" style="background-color:#B71C1C"><a href="">Paper</a></abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="wolc2026cell" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Cell Phone Image Analysis as a Proxy for Laboratory Egg Quality Measurements</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Anna Wolc,&nbsp;Usamah Kabuye,&nbsp;Tricia Veldhuizen,&nbsp;Jaedyn Condon,&nbsp;Ye Bi,&nbsp;and&nbsp;Kaylee Rowland</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Poultry Science</em> 2026
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a href="https://doi.org/10.1016/j.psj.2026.107470" class="btn btn-sm z-depth-0" role="button">HTML</a>
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
       <div class="row">
         <div class="col-sm-2 abbr"><abbr class="badge" style="background-color:#B71C1C"><a href="">Paper</a></abbr></div>
 

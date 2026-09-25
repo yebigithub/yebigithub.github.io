@@ -7,6 +7,8 @@ nav: true👩🏻‍💻
 nav_order: 6
 ---
 
+<u>August 3, 2026</u> &nbsp;&nbsp; <strong>[New paper accpeted]</strong> Anna Wolc, Usamah Kabuye, Tricia Veldhuizen, Jaedyn Condon, <strong>Ye Bi</strong>, and Kaylee Rowland. "Cell Phone Image Analysis as a Proxy for Laboratory Egg Quality Measurements." Poultry Science (2026): 107470. [doi: 10.1016/j.psj.2026.107470](https://doi.org/10.1016/j.psj.2026.107470)
+
 <u>July 12-17, 2026</u> &nbsp;&nbsp;<strong>[WCGALP2026]</strong> Happy to have joined #WCGALP for the first time last week in Madison, Wisconsin! I had the opportunity to present our recent research on animal tracking and novel behavior phenotyping using zero-shot learning and foundation models. It was a great experience to share our work and receive valuable feedback from the community. 
 
 
